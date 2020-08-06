@@ -5,8 +5,10 @@ Este repositorio provee actualizaciones de los resultados del documento de traba
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
 ## Test
-
-<img src="casesf/Benicasef.png" width="50%"> |  <img src="casesf/Chuquisacacasef.png" width="50%">
+<p float="left">
+  <img src="casesf/Benicasef.png" width="50%" /> 
+  <img src="casesf/Chuquisacacasef.png" width="50%" />
+</p>
 
 ## Resultados
 <img src="casesf/Benicasef.png" width="50%"> 
