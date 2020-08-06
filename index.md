@@ -1,23 +1,13 @@
 ## Bienvenido
 
-Este documento entrega tres herramientas de monitoreo en tiempo real dela  pandemia  del  COVID-19con  datos  públicos  disponibles  en  Bolivia.
+Este repositorio provee actualizaciones de los resultados del documento de trabajo: "Monitoreo en Tiempo Real del COVID-19 en Bolivia" que utiliza tres herramientas de monitoreo en tiempo real dela  pandemia  del  COVID-19con  datos  públicos  disponibles  en  Bolivia.
 
-You can use the [editor on GitHub](https://github.com/cov19bolivia/cov19bolivia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pronóstico de nuevos casos diarios por departamento
 
-### Ejemplo R
-
-```{r}
-# Source: http://www.htmlwidgets.org/showcase_plotly.html
-library(plotly)
-p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
-            geom_bar(position = "dodge")
-ggplotly(p)
-```
-
-library(DT)
-datatable(iris, options = list(pageLength = 5))
+---|---|---
+Cochabamba | 123 | 345
 
 ### Pronóstico
 
