@@ -15,7 +15,7 @@ Cochabamba  | 123     | 345      |
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Imagen 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](casesf/Benicasef.png)
 
 ```markdown
 Syntax highlighted code block
