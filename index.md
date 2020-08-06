@@ -4,21 +4,15 @@ Este repositorio provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-## Test
-<p float="left">
-  <img src="casesf/Benicasef.png" width="50%" /> 
-  <img src="casesf/Chuquisacacasef.png" width="50%" />
-</p>
-
 ## Resultados
-<img src="casesf/Benicasef.png" width="50%"> 
-<img src="casesf/Chuquisacacasef.png" width="50%">
-<img src="casesf/Cochabambacasef.png" width="50%">
-<img src="casesf/LaPazcasef.png" width="50%">
-<img src="casesf/Orurocasef.png" width="50%">
-<img src="casesf/LaPazcasef.png" width="50%">
-<img src="casesf/SantaCruzcasef.png" width="50%">
-<img src="casesf/Tarijacasef.png" width="50%">
+<img src="casesf/Benicasef.png" width="100%"> 
+<img src="casesf/Chuquisacacasef.png" width="100%">
+<img src="casesf/Cochabambacasef.png" width="100%">
+<img src="casesf/LaPazcasef.png" width="100%">
+<img src="casesf/Orurocasef.png" width="100%">
+<img src="casesf/LaPazcasef.png" width="100%">
+<img src="casesf/SantaCruzcasef.png" width="100%">
+<img src="casesf/Tarijacasef.png" width="100%">
 
 ### Pronóstico Casos acumulados al 01-09-2020
 
