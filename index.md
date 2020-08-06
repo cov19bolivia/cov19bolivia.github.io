@@ -1,6 +1,6 @@
 ## Monitoreo COVID-19 Bolivia
 
-Este repositorio provee actualizaciones de los resultados del documento de trabajo: __Cardona, Cuba-Borda y Gonzales (2020)__, ["Monitoreo en Tiempo Real del COVID-19 en Bolivia"](doc/COV19Bolivia-Current.pdf) que utiliza tres herramientas de monitoreo en tiempo real de la  pandemia de COVID-19 con datos  públicos  disponibles  en  Bolivia.
+Esta paginw web provee actualizaciones de los resultados del documento de trabajo: __Cardona, Cuba-Borda y Gonzales (2020)__, ["Monitoreo en Tiempo Real del COVID-19 en Bolivia"](doc/COV19Bolivia-Current.pdf) que utiliza tres herramientas de monitoreo en tiempo real de la  pandemia de COVID-19 con datos  públicos  disponibles  en  Bolivia.
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
