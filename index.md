@@ -22,15 +22,14 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 Departamento| Mediana | Infererior| Superior
 ------------|---------|----------|---------
-Beni | 6388.5 | 5434.5 | 9427.5
-Chuquisaca | 3129.5 | 2042 | 5380
-Cochabamba | 15970 | 10876.5 | 21479.5
-La Paz | 116668.5 | 61405 | 180894
-Oruro | 7061.5 | 3516.5 | 13362.5
+Beni | 6389 | 5435 | 9428
+Chuquisaca | 3130 | 2042 | 5380
+Cochabamba | 15970 | 10877 | 21480
+La Paz | 116669 | 61405 | 180894
+Oruro | 7062 | 3517 | 13363
 Potosi | 5755 | 1700 | 16538
 Santa Cruz | 37095 | 33132 | 41520
 Tarija | 5732 | 3621 | 9467
 Pando |  |  | 
-------------|---------|----------|---------
-Bolivia | 197800 | 121727.5 | 298068.5
-Ajustado | 1186800 | 730365 | 1788411
+Bolivia | 197802 | 121729 | 298070
+Ajustado | 1186812 | 730374 | 1788420
