@@ -6,14 +6,9 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ## Test
 
-<div class="row">
-  <div class="column">
-    <img src="casesf/Benicasef.png" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="casesf/Benicasef.png" alt="Forest" style="width:50%">
-  </div>
-</div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="casesf/Benicasef.png" width="50%"> |  <img src="casesf/Chuquisacacasef.png" width="50%">
 
 ## Resultados
 <img src="casesf/Benicasef.png" width="50%"> 
