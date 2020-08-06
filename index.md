@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenido
+
+Este documento entrega tres herramientas de monitoreo en tiempo real dela  pandemia  del  COVID-19con  datos  públicos  disponibles  en  Bolivia.
 
 You can use the [editor on GitHub](https://github.com/cov19bolivia/cov19bolivia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Pronóstico
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
