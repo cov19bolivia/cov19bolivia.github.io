@@ -13,6 +13,9 @@ El cálculo de casos diarios y casos acumulados se basan en la estimación y pro
 Para mas detalles ver el documento de trabajo
 
 ## Pronósticos al 26-07-2020
+
+En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección.Las regiones con sombras claras representan el intervalo de credibilidad del 95%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valorestimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical punteada corresponde al **26/07/2020**, la última observaciónde la muestra. El eje vertical se ajusta a cada departamento
+
 <img src="casesf/Benicasef.png" width="100%"> 
 <img src="casesf/Chuquisacacasef.png" width="100%">
 <img src="casesf/Cochabambacasef.png" width="100%">
