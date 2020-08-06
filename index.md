@@ -6,8 +6,6 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ## Test
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
 <img src="casesf/Benicasef.png" width="50%"> |  <img src="casesf/Chuquisacacasef.png" width="50%">
 
 ## Resultados
