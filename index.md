@@ -1,6 +1,6 @@
 ## Monitoreo COVID-19 Bolivia
 
-Este repositorio provee actualizaciones de los resultados del documento de trabajo: __Cardona, Cuba-Borda, Gonzales (2020), "Monitoreo en Tiempo Real del COVID-19 en Bolivia"__ que utiliza tres herramientas de monitoreo en tiempo real dela  pandemia  del  COVID-19con  datos  públicos  disponibles  en  Bolivia.
+Este repositorio provee actualizaciones de los resultados del documento de trabajo: __Cardona, Cuba-Borda y Gonzales (2020)__, ["Monitoreo en Tiempo Real del COVID-19 en Bolivia"]() que utiliza tres herramientas de monitoreo en tiempo real de la  pandemia de COVID-19 con datos  públicos  disponibles  en  Bolivia.
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
@@ -8,7 +8,7 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ## Interpretación de los resultados
 
-El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __R_t__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al periódo de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial.
+El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al periódo de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial.
 
 Para mayores detalles ver nuestro [documento de trabajo]()
 
@@ -43,4 +43,4 @@ Pando |  |  |
 **Bolivia** | 197.802 | 121.729 | 298.070
 **Bolivia Ajustado** | 1.186.812 | 730.374 | 1.788.420
 
-El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y esta basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2in10Sites  in  the  United  States,March23-May12,2020.”JAMA Internal Medicine__.
+El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
