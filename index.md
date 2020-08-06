@@ -1,4 +1,4 @@
-## Bienvenido
+## Monitoreo COVID-19 Bolivia
 
 Este repositorio provee actualizaciones de los resultados del documento de trabajo: "Monitoreo en Tiempo Real del COVID-19 en Bolivia" que utiliza tres herramientas de monitoreo en tiempo real dela  pandemia  del  COVID-19con  datos  públicos  disponibles  en  Bolivia.
 
@@ -22,7 +22,9 @@ Para mas detalles ver el documento de trabajo
 <img src="casesf/SantaCruzcasef.png" width="100%">
 <img src="casesf/Tarijacasef.png" width="100%">
 
-### Pronóstico Casos Confirmados, Totales Acumulados hasta 01-09-2020
+### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
+
+Los resultados corresponden al total de casos por segun la fecha de infección y proveen información adelantada con respecto a los casos por fecha de diagnóstico.
 
 **Departamento**| **Mediana** | **Infererior**| **Superior**
 ------------|---------|----------|---------
