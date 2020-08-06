@@ -31,7 +31,7 @@ En los siguientes gráficos, la linea de color verde representa la mediana de la
 
 Los resultados corresponden al total de casos por segun la fecha de infección y proveen información adelantada con respecto a los casos por fecha de diagnóstico.
 
-**Departamento**| **Mediana** | **Infererior**| **Superior**
+**Departamento**| **Mediana** | **Inferior**| **Superior**
 ------------|---------|----------|---------
 Beni | 6.389 | 5.435 | 9.428
 Chuquisaca | 3.130 | 2.042 | 5.380
