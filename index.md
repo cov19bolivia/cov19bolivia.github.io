@@ -8,6 +8,10 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ## Interpretación de los resultados
 
+El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo $R_t$. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al periódo de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial.
+
+Para mas detalles ver el documento de trabajo
+
 ## Pronósticos al 26-07-2020
 <img src="casesf/Benicasef.png" width="100%"> 
 <img src="casesf/Chuquisacacasef.png" width="100%">
