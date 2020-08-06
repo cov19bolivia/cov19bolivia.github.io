@@ -26,16 +26,16 @@ Para mas detalles ver el documento de trabajo
 
 **Departamento**| **Mediana** | **Infererior**| **Superior**
 ------------|---------|----------|---------
-Beni | 6389 | 5435 | 9428
-Chuquisaca | 3130 | 2042 | 5380
-Cochabamba | 15970 | 10877 | 21480
-La Paz | 116669 | 61405 | 180894
-Oruro | 7062 | 3517 | 13363
-Potosi | 5755 | 1700 | 16538
-Santa Cruz | 37095 | 33132 | 41520
-Tarija | 5732 | 3621 | 9467
+Beni | 6.389 | 5.435 | 9.428
+Chuquisaca | 3.130 | 2.042 | 5.380
+Cochabamba | 15.970 | 10.877 | 21.480
+La Paz | 116.669 | 61.405 | 180.894
+Oruro | 7.062 | 3.517 | 13.363
+Potosi | 5.755 | 1700 | 16.538
+Santa Cruz | 37.095 | 33.132 | 41.520
+Tarija | 5.732 | 3.621 | 9.467
 Pando |  |  | 
-**Bolivia** | 197802 | 121729 | 298070
-**Bolivia Ajustado** | 1186812 | 730374 | 1788420
+**Bolivia** | 197.802 | 121.729 | 298.070
+**Bolivia Ajustado** | 1.186.812 | 730.374 | 1.788.420
 
 El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y esta basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2in10Sites  in  the  United  States,March23-May12,2020.”JAMA Internal Medicine__.
