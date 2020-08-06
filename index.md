@@ -20,3 +20,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ![Chuquisaca](casesf/Chuquisacacasef.png)
 
 ![Cochabamba](casesf/Cochabambacasef.png)
+
+![La Paz](casesf/LaPazcasef.png)
+
+![Oruro](casesf/Orurocasef.png)
+
+![Potosi](casesf/LaPazcasef.png)
+
+![Santa Cruz](casesf/SantaCruzcasef.png)
+
+![Tarija](casesf/Tarijacasef.png)
