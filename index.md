@@ -15,18 +15,18 @@ Cochabamba  | 123     | 345      |
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ## Resultados
-![Beni](casesf/Benicasef.png)
+![Beni](casesf/Benicasef.png | width=50)
 
-![Chuquisaca](casesf/Chuquisacacasef.png)
+![Chuquisaca](casesf/Chuquisacacasef.png| width=50)
 
-![Cochabamba](casesf/Cochabambacasef.png)
+![Cochabamba](casesf/Cochabambacasef.png| width=50)
 
-![La Paz](casesf/LaPazcasef.png)
+![La Paz](casesf/LaPazcasef.png| width=50)
 
-![Oruro](casesf/Orurocasef.png)
+![Oruro](casesf/Orurocasef.png| width=50)
 
-![Potosi](casesf/LaPazcasef.png)
+![Potosi](casesf/LaPazcasef.png| width=50)
 
-![Santa Cruz](casesf/SantaCruzcasef.png)
+![Santa Cruz](casesf/SantaCruzcasef.png| width=50)
 
-![Tarija](casesf/Tarijacasef.png)
+![Tarija](casesf/Tarijacasef.png| width=50)
