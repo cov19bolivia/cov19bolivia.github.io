@@ -16,6 +16,9 @@ p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
 ggplotly(p)
 ```
 
+library(DT)
+datatable(iris, options = list(pageLength = 5))
+
 ### Pronóstico
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
