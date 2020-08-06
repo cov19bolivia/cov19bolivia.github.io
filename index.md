@@ -6,12 +6,16 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ### Pronóstico de nuevos casos diarios por departamento
 
----|---|---
-Cochabamba | 123 | 345
+Departamento| Mediana | Low      | High
+------------|---------|----------|---------
+Cochabamba  | 123     | 345      |
 
 ### Pronóstico
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Imagen 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```markdown
 Syntax highlighted code block
