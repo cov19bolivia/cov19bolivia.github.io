@@ -23,7 +23,7 @@ En los siguientes gráficos, la linea de color verde representa la mediana de la
 <img src="casesf/Cochabambacasef.png" width="100%">
 <img src="casesf/LaPazcasef.png" width="100%">
 <img src="casesf/Orurocasef.png" width="100%">
-<img src="casesf/LaPazcasef.png" width="100%">
+<img src="casesf/Potosicasef.png" width="100%">
 <img src="casesf/SantaCruzcasef.png" width="100%">
 <img src="casesf/Tarijacasef.png" width="100%">
 
