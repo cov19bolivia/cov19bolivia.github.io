@@ -4,30 +4,20 @@ Este repositorio provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-### Pronóstico de nuevos casos diarios por departamento
+
+## Resultados
+<img src="casesf/Benicasef.png" width="50%"> 
+<img src="casesf/Chuquisacacasef.png" width="50%">
+<img src="casesf/Cochabambacasef.png" width="50%">
+<img src="casesf/LaPazcasef.png" width="50%">
+<img src="casesf/Orurocasef.png" width="50%">
+<img src="casesf/LaPazcasef.png" width="50%">
+<img src="casesf/SantaCruzcasef.png" width="50%">
+<img src="casesf/Tarijacasef.png" width="50%">
+
+### Pronóstico Casos acumulados al 01-09-2020
 
 Departamento| Mediana | Low      | High
 ------------|---------|----------|---------
-Cochabamba  | 123     | 345      |
-
-### Pronóstico
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-## Resultados
-<img src="casesf/Benicasef.png" width="50%"> <img src="casesf/Chuquisacacasef.png" width="50%">
-
-
-![Chuquisaca](casesf/Chuquisacacasef.png)
-
-![Cochabamba](casesf/Cochabambacasef.png)
-
-![La Paz](casesf/LaPazcasef.png)
-
-![Oruro](casesf/Orurocasef.png)
-
-![Potosi](casesf/LaPazcasef.png)
-
-![Santa Cruz](casesf/SantaCruzcasef.png)
-
-![Tarija](casesf/Tarijacasef.png)
+Beni        | 123     | 345      |
+Chuquisaca  | 123     | 345      |
