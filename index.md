@@ -22,9 +22,9 @@ Para mas detalles ver el documento de trabajo
 <img src="casesf/SantaCruzcasef.png" width="100%">
 <img src="casesf/Tarijacasef.png" width="100%">
 
-### Pronóstico Casos acumulados para 01-09-2020
+### Pronóstico Casos Confirmados, Totales Acumulados hasta 01-09-2020
 
-Departamento| Mediana | Infererior| Superior
+**Departamento**| **Mediana** | **Infererior**| **Superior**
 ------------|---------|----------|---------
 Beni | 6389 | 5435 | 9428
 Chuquisaca | 3130 | 2042 | 5380
@@ -35,5 +35,7 @@ Potosi | 5755 | 1700 | 16538
 Santa Cruz | 37095 | 33132 | 41520
 Tarija | 5732 | 3621 | 9467
 Pando |  |  | 
-Bolivia | 197802 | 121729 | 298070
-Ajustado | 1186812 | 730374 | 1788420
+**Bolivia** | 197802 | 121729 | 298070
+**Bolivia Ajustado** | 1186812 | 730374 | 1788420
+
+El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y esta basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2in10Sites  in  the  United  States,March23-May12,2020.”JAMA Internal Medicine__.
