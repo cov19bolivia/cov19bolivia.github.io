@@ -6,6 +6,16 @@ You can use the [editor on GitHub](https://github.com/cov19bolivia/cov19bolivia.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Ejemplo R
+
+```{r}
+# Source: http://www.htmlwidgets.org/showcase_plotly.html
+library(plotly)
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+            geom_bar(position = "dodge")
+ggplotly(p)
+```
+
 ### Pronóstico
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
