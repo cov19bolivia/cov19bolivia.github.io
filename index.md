@@ -4,6 +4,16 @@ Este repositorio provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
+## Test
+
+<div class="row">
+  <div class="column">
+    <img src="casesf/Benicasef.png" alt="Snow" style="width:50%">
+  </div>
+  <div class="column">
+    <img src="casesf/Benicasef.png" alt="Forest" style="width:50%">
+  </div>
+</div>
 
 ## Resultados
 <img src="casesf/Benicasef.png" width="50%"> 
