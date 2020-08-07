@@ -42,7 +42,7 @@ Potosi | 4.635 | 1.935 | 16.041
 Santa Cruz | 48.607 | 41.151 | 58.301
 Tarija | 8.868 | 5.795 | 12.936
 Pando |  |  | 
-Bolivia | 167.591 | 110.903 | 271.668
-Ajustado | 1.005.546 | 665.418 | 1.630.008
+**Bolivia** | 167.591 | 110.903 | 271.668
+**Bolivia Ajustado** | 1.005.546 | 665.418 | 1.630.008
 
 El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
