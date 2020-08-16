@@ -34,16 +34,16 @@ Los resultados corresponden al total de casos según la fecha de infección y pr
 
 **Departamento**| **Mediana** | **Inferior**| **Superior**
 ------------|---------|----------|---------
-Beni | 6525 | 5801 | 7681
-Chuquisaca | 14868 | 4631 | 31319
-Cochabamba | 11001 | 10099 | 11994
-La Paz | 45873 | 36491 | 55503
-Oruro | 4109 | 3901 | 4427
-Potosi | 32358 | 4570 | 86855
-Santa Cruz | 39471 | 37164 | 41954
-Tarija | 7301 | 5121 | 11180
-Pando | 6366 | 1705 | 20844
-**Bolivia: Total Casos Confirmados** | 161506 | 107778 | 250913
-**Bolivia: Total Infecciones (estimado)** | 969036 | 646668 | 1505478
+Beni | 6.525 | 5.801 | 7.681
+Chuquisaca | 14.868 | 4.631 | 31.319
+Cochabamba | 11.001 | 10.099 | 11.994
+La Paz | 45.873 | 36.491 | 55.503
+Oruro | 4.109 | 3.901 | 4.427
+Potosi | 32.358 | 4.570 | 86.855
+Santa Cruz | 39.471 | 37.164 | 41.954
+Tarija | 7.301 | 5.121 | 11.180
+Pando | 6.366 | 1.705 | 20.844
+**Bolivia: Total Casos Confirmados** | 161.506 | 107.778 | 250.913
+**Bolivia: Total Infecciones (estimado)** | 969.036 | 646.668 | 1.505.478
 
 El ajuste de casos confirmados para obtener el total de infecciones, asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
