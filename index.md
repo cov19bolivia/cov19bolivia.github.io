@@ -32,7 +32,7 @@ En los siguientes gráficos, la linea de color verde representa la mediana de la
 
 Los resultados corresponden al total de casos según la fecha de infección y proveen información adelantada con respecto a los casos por fecha de diagnóstico.
 
-**Departamento**| **Mediana** | **Inferior**| **Superior**
+**Departamento**| **Proyección Mediana** | **Banda Inferior**| **Banda Superior**
 ------------|---------|----------|---------
 Beni | 6.525 | 5.801 | 7.681
 Chuquisaca | 14.868 | 4.631 | 31.319
@@ -43,7 +43,25 @@ Potosi | 32.358 | 4.570 | 86.855
 Santa Cruz | 39.471 | 37.164 | 41.954
 Tarija | 7.301 | 5.121 | 11.180
 Pando | 6.366 | 1.705 | 20.844
-**Bolivia: Total Casos Confirmados** | 161.506 | 107.778 | 250.913
-**Bolivia: Total Infecciones (estimado)** | 969.036 | 646.668 | 1.505.478
+**Bolivia: Total Casos Confirmados** | 167.872 | 109.483 | 271.757
+**Bolivia: Total Infecciones (estimado)** | 1.007.232 | 656.898 | 1.630.542
 
 El ajuste de casos confirmados para obtener el total de infecciones, asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
+
+## Evolución de los Pronósticos
+
+A continuación mostramos la evolución del pronóstico de casos acumulados por departamento para diferentes momentos de estimación del modelo. Todos los pronósticos se refieren al total de infecciones esperadas hasta el **01-09-2020**
+
+------------|---------|----------|---------
+            | **Julio-26** | **Agosto-6** | **Agosto-13**
+------------|---------|----------|---------     
+Beni | 6.389 | 11.575 | 6.525
+Chuquisaca | 3.130 | 10.077 | 14.868
+Cochabamba | 15.970 | 21.665 | 11.001
+La Paz | 116.669 | 47827 | 45.873
+Oruro | 7.062 | 14.337 | 4.109
+Potosi | 5.755 | 4.635 | 32.358
+Santa Cruz | 37.095 | 48.607 | 39.471
+Tarija | 5.732 | 8.868 | 7.301
+Pando |  |  | 6.366
+**Bolivia** | 197.802 | 167.591 | 167.872
