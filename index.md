@@ -14,7 +14,7 @@ El cálculo de casos diarios y casos acumulados se basan en la estimación y pro
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
 
-## Pronósticos al 06-08-2020
+## Pronósticos de Casos Diarios (al 13-08-2020)
 
 En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección. Las regiones con sombras claras representan el intervalo de credibilidad del 95%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valor estimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical punteada corresponde al **13/08/2020**, la última observación de la muestra. El eje vertical se ajusta a cada departamento.
 
@@ -42,8 +42,8 @@ Oruro | 4109 | 3901 | 4427
 Potosi | 32358 | 4570 | 86855
 Santa Cruz | 39471 | 37164 | 41954
 Tarija | 7301 | 5121 | 11180
-Pando |  |  | 
-**Bolivia** | 161506 | 107778 | 250913
-**Ajustado** | 969036 | 646668 | 1505478
+Pando | 6366 | 1705 | 20844
+**Bolivia: Total Casos Confirmados** | 161506 | 107778 | 250913
+**Bolivia: Total Infecciones (estimado)** | 969036 | 646668 | 1505478
 
-El ajuste de casos confirmados asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
+El ajuste de casos confirmados para obtener el total de infecciones, asume que existen por lo menos 6 casos no diagnosticados por cada caso confirmado. Este supuesto es solo referencial y está basado en la estimación de seroprevalencia del estudio de __Havers, et.al. “Seroprevalence  of  Antibodies  to  SARS-CoV-2 in 10 Sites  in  the  United  States, March23-May12,2020.” JAMA Internal Medicine__.
