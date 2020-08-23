@@ -63,4 +63,5 @@ Santa Cruz | 37.095 | 48.607 | 39.471 | 39.193
 Tarija | 5732 | 8.868 | 7.301 | 12.675
 Pando |  |  | 6.366 | 3.531
 **Bolivia** | 197.802 | 167.591 | 167.872 | 144.710
+
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
