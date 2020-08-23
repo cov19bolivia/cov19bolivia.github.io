@@ -54,7 +54,16 @@ A continuación mostramos la evolución del pronóstico de casos acumulados por 
 
 **Departamento**| **Julio-26** | **Agosto-6**| **Agosto-13**| **Agosto-20**
 ------------|---------|----------|---------|---------
-Beni | 6.787 | 6.195 | 7.784 | 7.784
+Beni | 6.389 | 11.575 | 6.525 | 6.787
+Chuquisaca | 3.130 | 10.077 | 14.868 | 9.064
+Cochabamba | 15.970 | 21.665 | 11.001 | 12.188
+La Paz | 116.669 | 47.827 | 45.873 | 34.879
+Oruro | 7.062 | 14.337 | 4.109 | 5.322
+Potosi | 5.755 | 4.635 | 32.358 | 21.071
+Santa Cruz | 37.095 | 48.607 | 39.471 | 39.193
+Tarija | 5732 | 8.868 | 7.301 | 12.675
+Pando |  |  | 6.366 | 3.531
+**Bolivia** | 197.802 | 167.591 | 167.872 | 144.710
 
 
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
