@@ -54,6 +54,7 @@ A continuación mostramos la evolución del pronóstico de casos acumulados por 
 
 **Departamento**| **Julio-26** | **Agosto-6**| **Agosto-13**
 ------------|---------|----------|---------
+Beni | 6.787 | 6.195 | 7.784
 
 
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
