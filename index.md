@@ -51,9 +51,8 @@ El ajuste de casos confirmados para obtener el total de infecciones, asume que e
 ## Evolución de los Pronósticos
 
 A continuación mostramos la evolución del pronóstico de casos acumulados por departamento para diferentes momentos de estimación del modelo. Todos los pronósticos se refieren al total de infecciones esperadas hasta el **01-09-2020**
-
 **Departmento** | **Julio-26** | **Agosto-6** | **Agosto-13** | **Agosto-20**
--------------|--------------|--------------|--------------     
+----------------|--------------|--------------|---------------|---------------     
 Beni | 6.389 | 11.575 | 6.525 | 6.787
 Chuquisaca | 3.130 | 10.077 | 14.868 | 9.064
 Cochabamba | 15.970 | 21.665 | 11.001 | 12.188
