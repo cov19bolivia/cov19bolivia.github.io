@@ -52,9 +52,9 @@ El ajuste de casos confirmados para obtener el total de infecciones, asume que e
 
 A continuación mostramos la evolución del pronóstico de casos acumulados por departamento para diferentes momentos de estimación del modelo. Todos los pronósticos se refieren al total de infecciones esperadas hasta el **01-09-2020**
 
-**Departamento**| **Julio-26** | **Agosto-6**| **Agosto-13**
-------------|---------|----------|---------
-Beni | 6.787 | 6.195 | 7.784
+**Departamento**| **Julio-26** | **Agosto-6**| **Agosto-13**| **Agosto-20**
+------------|---------|----------|---------|---------
+Beni | 6.787 | 6.195 | 7.784 | 7.784
 
 
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
