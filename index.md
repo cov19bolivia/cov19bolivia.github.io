@@ -57,7 +57,7 @@ A continuación mostramos la evolución del pronóstico de casos acumulados por 
 Beni | 11,575 | 6,525 | 6,787 | 7,549
 Chuquisaca | 10,077 | 14,868 | 9,064 | 5,704
 Cochabamba | 21,665 | 11,001 | 12,188 | 12,668
-La Paz | 47,827 | 45,873 | 34879 | 33385
+La Paz | 47,827 | 45,873 | 34,879 | 33,385
 Oruro | 14,337 | 4,109 | 5,322 | 5,715
 Potosi | 4,635 | 32,358 | 21,071 | 6,041
 Santa Cruz | 48,607 | 39,471 | 39,193 | 40,629
