@@ -54,15 +54,15 @@ A continuación mostramos la evolución del pronóstico de casos acumulados por 
 
 **Departamento**| **Agosto-6** | **Agosto-13**| **Agosto-20**| **Agosto-27**
 ------------|---------|----------|---------|---------
-Beni | 11575 | 6525 | 6787 | 7549
-Chuquisaca | 10077 | 14868 | 9064 | 5704
-Cochabamba | 21665 | 11001 | 12188 | 12668
-La Paz | 47827 | 45873 | 34879 | 33385
-Oruro | 14337 | 4109 | 5322 | 5715
-Potosi | 4635 | 32358 | 21071 | 6041
-Santa Cruz | 48607 | 39471 | 39193 | 40629
-Tarija | 8868 | 7301 | 12675 | 8795
-Pando |  | 6366 | 3531 | 2566
-**Bolivia** | 167591 | 167872 | 144710 | 123052
+Beni | 11,575 | 6,525 | 6,787 | 7,549
+Chuquisaca | 10,077 | 14,868 | 9,064 | 5,704
+Cochabamba | 21,665 | 11,001 | 12,188 | 12,668
+La Paz | 47,827 | 45,873 | 34879 | 33385
+Oruro | 14,337 | 4,109 | 5,322 | 5,715
+Potosi | 4,635 | 32,358 | 21,071 | 6,041
+Santa Cruz | 48,607 | 39,471 | 39,193 | 40,629
+Tarija | 8,868 | 7,301 | 12,675 | 8,795
+Pando |  | 6,366 | 3,531 | 2,566
+**Bolivia** | 167,591 | 167,872 | 144,710 | 123,052
 
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
