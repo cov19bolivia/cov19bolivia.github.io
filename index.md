@@ -4,7 +4,7 @@ Esta página web provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-**Última Actualización: 27-08-2020**
+**Última Actualización: 03-09-2020**
 
 **Próxima Actualización: 08-09-2020**
 
@@ -14,19 +14,19 @@ El cálculo de casos diarios y casos acumulados se basan en la estimación y pro
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
 
-## Pronósticos de Casos Diarios (al 20-08-2020)
+## Pronósticos de Casos Diarios (al 03-09-2020)
 
 En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valor estimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical punteada corresponde al **27/08/2020**, la última observación de la muestra. El eje vertical se ajusta a cada departamento.
 
-<img src="casesf/Benicasef.png" width="100%"> 
-<img src="casesf/Chuquisacacasef.png" width="100%">
-<img src="casesf/Cochabambacasef.png" width="100%">
-<img src="casesf/LaPazcasef.png" width="100%">
-<img src="casesf/Orurocasef.png" width="100%">
-<img src="casesf/Potosicasef.png" width="100%">
-<img src="casesf/SantaCruzcasef.png" width="100%">
-<img src="casesf/Tarijacasef.png" width="100%">
-<img src="casesf/Pandocasef.png" width="100%">
+<img src="casesf/Benicasefv2.png" width="100%"> 
+<img src="casesf/Chuquisacacasefv2.png" width="100%">
+<img src="casesf/Cochabambacasefv2.png" width="100%">
+<img src="casesf/LaPazcasefv2.png" width="100%">
+<img src="casesf/Orurocasefv2.png" width="100%">
+<img src="casesf/Potosicasefv2.png" width="100%">
+<img src="casesf/SantaCruzcasefv2.png" width="100%">
+<img src="casesf/Tarijacasefv2.png" width="100%">
+
 
 ### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
 
