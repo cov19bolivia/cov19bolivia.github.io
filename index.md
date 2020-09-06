@@ -28,7 +28,11 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 
 * La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
 
-* La linea vertical corresponde al **03/09/2020**, la última observación de la muestra y los valores observados fuera de muestra son los circulos en color rojo. El eje vertical se ajusta a cada departamento.
+* La linea vertical corresponde al **03/09/2020**, la última observación de la muestra y los valores observados fuera de muestra son los circulos en color rojo. 
+
+* El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización. 
+
+* Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 200 casos.
 
 <img src="casesf/Benicasefv2.png" width="100%"> 
 <img src="casesf/Chuquisacacasefv2.png" width="100%">
