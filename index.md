@@ -16,7 +16,7 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 
 ## Pronósticos de Casos Diarios (al 03-09-2020)
 
-En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valor estimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical punteada corresponde al **27/08/2020**, la última observación de la muestra. El eje vertical se ajusta a cada departamento.
+En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valor estimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical corresponde al **03/09/2020**, la última observación de la muestra. El eje vertical se ajusta a cada departamento.
 
 <img src="casesf/Benicasefv2.png" width="100%"> 
 <img src="casesf/Chuquisacacasefv2.png" width="100%">
@@ -27,7 +27,7 @@ En los siguientes gráficos, la linea de color verde representa la mediana de la
 <img src="casesf/SantaCruzcasefv2.png" width="100%">
 <img src="casesf/Tarijacasefv2.png" width="100%">
 
-
+<!---
 ### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
 
 Los resultados corresponden al total de casos según la fecha de infección y proveen información adelantada con respecto a los casos por fecha de diagnóstico.
