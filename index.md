@@ -10,13 +10,25 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 ## Metodología e Interpretación de los resultados
 
-El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al período de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial. El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellewell J, Thompson RN et al. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts. Wellcome Open Res 2020, 5:112 [https://doi.org/10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1).
+El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al período de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial. 
+
+Para poder hacer comparaciones con los datos observados, realizamos dos transformaciones:
+* Asumimos un tiempo promedio entre infeccion y reporte de 10 dias. 
+* Comparamos nuestros resultados con el promedio movil semanal de casos observados para suavizar la volatilidad de los datos.
+
+El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellewell J, Thompson RN et al. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts. Wellcome Open Res 2020, 5:112 [https://doi.org/10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1).
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
 
 ## Pronósticos de Casos Diarios (al 03-09-2020)
 
-En los siguientes gráficos, la linea de color verde representa la mediana de la proyección de nuevos casos diarios por fecha de infección. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombrasoscuras corresponden al intervalo de credibilidad del 50%. La linea de color negro corresponde al valor estimado de infecciones por fecha de infección. Las barras azules representan el número de casos positivospor fecha oficial de confirmación. La linea vertical corresponde al **03/09/2020**, la última observación de la muestra. El eje vertical se ajusta a cada departamento.
+* En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación. 
+
+* Las barras transparentes representan corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados. 
+
+* La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
+
+* La linea vertical corresponde al **03/09/2020**, la última observación de la muestra y los valores observados fuera de muestra son los circulos en color rojo. El eje vertical se ajusta a cada departamento.
 
 <img src="casesf/Benicasefv2.png" width="100%"> 
 <img src="casesf/Chuquisacacasefv2.png" width="100%">
