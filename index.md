@@ -82,3 +82,5 @@ Pando |  | 6,366 | 3,531 | 2,566
 **Bolivia** | 167,591 | 167,872 | 144,710 | 123,052
 
 (*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
+
+--->
