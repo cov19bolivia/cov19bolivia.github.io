@@ -6,7 +6,7 @@ Los resultados se actualizan semanalmente los días sábados con la información
 
 **Última Actualización: 03-09-2020**
 
-**Próxima Actualización: 08-09-2020**
+**Próxima Actualización: 12-09-2020**
 
 ## Metodología e Interpretación de los resultados
 
