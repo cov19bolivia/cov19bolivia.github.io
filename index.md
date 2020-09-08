@@ -24,11 +24,11 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 
 * En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación. 
 
-* Las barras transparentes representan corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados. 
+* Las barras transparentes corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados. 
 
 * La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
 
-* La linea vertical corresponde al **03/09/2020**, la última observación de la muestra y los valores observados fuera de muestra son los circulos en color rojo. 
+* La linea vertical corresponde al **03/09/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente. 
 
 * El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización. 
 
