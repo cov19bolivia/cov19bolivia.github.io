@@ -4,16 +4,16 @@ Esta página web provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-**Última Actualización: 03-09-2020**
+**Última Actualización: 26-09-2020**
 
-**Próxima Actualización: 12-09-2020**
+**Próxima Actualización: 10-10-2020**
 
 ## Metodología e Interpretación de los resultados
 
-El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al período de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial. 
+El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al período de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial.
 
 Para poder hacer comparaciones con los datos observados, realizamos dos transformaciones:
-* Asumimos un tiempo promedio entre infeccion y reporte de 10 dias. 
+* Asumimos un tiempo promedio entre infeccion y reporte de 10 dias.
 * Comparamos nuestros resultados con el promedio movil semanal de casos observados para suavizar la volatilidad de los datos.
 
 El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellewell J, Thompson RN et al. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts. Wellcome Open Res 2020, 5:112 [https://doi.org/10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1).
@@ -22,19 +22,19 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 
 ## Pronósticos de Casos Diarios (al 03-09-2020)
 
-* En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación. 
+* En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación.
 
-* Las barras transparentes corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados. 
+* Las barras transparentes corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados.
 
 * La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
 
-* La linea vertical corresponde al **03/09/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente. 
+* La linea vertical corresponde al **26/09/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente.
 
-* El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización. 
+* El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización.
 
-* Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 200 casos.
+* Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 50 casos.
 
-<img src="casesf/Benicasefv2.png" width="100%"> 
+<img src="casesf/Benicasefv2.png" width="100%">
 <img src="casesf/Chuquisacacasefv2.png" width="100%">
 <img src="casesf/Cochabambacasefv2.png" width="100%">
 <img src="casesf/LaPazcasefv2.png" width="100%">
@@ -81,6 +81,6 @@ Tarija | 8,868 | 7,301 | 12,675 | 8,795
 Pando |  | 6,366 | 3,531 | 2,566
 **Bolivia** | 167,591 | 167,872 | 144,710 | 123,052
 
-(*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200. 
+(*) No contamos con pronósticos para Pando antes del 13 de Agosto debido a que el número de casos acumulados durante la semana previa a cada actualización fue menor a 200.
 
 --->
