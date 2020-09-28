@@ -1,0 +1,1711 @@
+country,date,confirmed
+La Paz,3/21/20,1
+La Paz,3/22/20,1
+La Paz,3/23/20,1
+La Paz,3/24/20,3
+La Paz,3/25/20,4
+La Paz,3/26/20,8
+La Paz,3/27/20,8
+La Paz,3/28/20,10
+La Paz,3/29/20,13
+La Paz,3/30/20,14
+La Paz,3/31/20,16
+La Paz,4/1/20,16
+La Paz,4/2/20,19
+La Paz,4/3/20,20
+La Paz,4/4/20,23
+La Paz,4/5/20,32
+La Paz,4/6/20,37
+La Paz,4/7/20,39
+La Paz,4/8/20,57
+La Paz,4/9/20,57
+La Paz,4/10/20,59
+La Paz,4/11/20,65
+La Paz,4/12/20,73
+La Paz,4/13/20,80
+La Paz,4/14/20,91
+La Paz,4/15/20,101
+La Paz,4/16/20,120
+La Paz,4/17/20,120
+La Paz,4/18/20,126
+La Paz,4/19/20,133
+La Paz,4/20/20,134
+La Paz,4/21/20,137
+La Paz,4/22/20,140
+La Paz,4/23/20,150
+La Paz,4/24/20,155
+La Paz,4/25/20,159
+La Paz,4/26/20,168
+La Paz,4/27/20,185
+La Paz,4/28/20,188
+La Paz,4/29/20,202
+La Paz,4/30/20,218
+La Paz,5/1/20,221
+La Paz,5/2/20,236
+La Paz,5/3/20,241
+La Paz,5/4/20,243
+La Paz,5/5/20,253
+La Paz,5/6/20,260
+La Paz,5/7/20,271
+La Paz,5/8/20,294
+La Paz,5/9/20,301
+La Paz,5/10/20,309
+La Paz,5/11/20,313
+La Paz,5/12/20,316
+La Paz,5/13/20,319
+La Paz,5/14/20,322
+La Paz,5/15/20,328
+La Paz,5/16/20,333
+La Paz,5/17/20,335
+La Paz,5/18/20,342
+La Paz,5/19/20,355
+La Paz,5/20/20,363
+La Paz,5/21/20,375
+La Paz,5/22/20,381
+La Paz,5/23/20,386
+La Paz,5/24/20,394
+La Paz,5/25/20,403
+La Paz,5/26/20,410
+La Paz,5/27/20,415
+La Paz,5/28/20,423
+La Paz,5/29/20,444
+La Paz,5/30/20,478
+La Paz,5/31/20,507
+La Paz,6/1/20,555
+La Paz,6/2/20,614
+La Paz,6/3/20,635
+La Paz,6/4/20,661
+La Paz,6/5/20,692
+La Paz,6/6/20,737
+La Paz,6/7/20,754
+La Paz,6/8/20,754
+La Paz,6/9/20,804
+La Paz,6/10/20,842
+La Paz,6/11/20,932
+La Paz,6/12/20,983
+La Paz,6/13/20,1064
+La Paz,6/14/20,1149
+La Paz,6/15/20,1213
+La Paz,6/16/20,1254
+La Paz,6/17/20,1298
+La Paz,6/18/20,1386
+La Paz,6/19/20,1469
+La Paz,6/20/20,1545
+La Paz,6/21/20,1780
+La Paz,6/22/20,1918
+La Paz,6/23/20,1966
+La Paz,6/24/20,2161
+La Paz,6/25/20,2373
+La Paz,6/26/20,2580
+La Paz,6/27/20,2774
+La Paz,6/28/20,2882
+La Paz,6/29/20,2967
+La Paz,6/30/20,3029
+La Paz,7/1/20,3241
+La Paz,7/2/20,3397
+La Paz,7/3/20,3634
+La Paz,7/4/20,3872
+La Paz,7/5/20,4205
+La Paz,7/6/20,4685
+La Paz,7/7/20,4876
+La Paz,7/8/20,5151
+La Paz,7/9/20,5376
+La Paz,7/10/20,5704
+La Paz,7/11/20,6366
+La Paz,7/12/20,6703
+La Paz,7/13/20,7124
+La Paz,7/14/20,7402
+La Paz,7/15/20,7662
+La Paz,7/16/20,7976
+La Paz,7/17/20,8209
+La Paz,7/18/20,8922
+La Paz,7/19/20,9655
+La Paz,7/20/20,10190
+La Paz,7/21/20,10621
+La Paz,7/22/20,11409
+La Paz,7/23/20,11943
+La Paz,7/24/20,12273
+La Paz,7/25/20,13371
+La Paz,7/26/20,13780
+La Paz,7/27/20,14403
+La Paz,7/28/20,14618
+La Paz,7/29/20,14982
+La Paz,7/30/20,15595
+La Paz,7/31/20,15951
+La Paz,8/1/20,16425
+La Paz,8/2/20,16823
+La Paz,8/3/20,17699
+La Paz,8/4/20,18115
+La Paz,8/5/20,19024
+La Paz,8/6/20,19575
+La Paz,8/7/20,20481
+La Paz,8/8/20,21105
+La Paz,8/9/20,21606
+La Paz,8/10/20,22322
+La Paz,8/11/20,22908
+La Paz,8/12/20,23721
+La Paz,8/13/20,24145
+La Paz,8/14/20,24602
+La Paz,8/15/20,25122
+La Paz,8/16/20,25776
+La Paz,8/17/20,26052
+La Paz,8/18/20,26295
+La Paz,8/19/20,27100
+La Paz,8/20/20,27306
+La Paz,8/21/20,27771
+La Paz,8/22/20,27985
+La Paz,8/23/20,28328
+La Paz,8/24/20,28935
+La Paz,8/25/20,29149
+La Paz,8/26/20,29498
+La Paz,8/27/20,29851
+La Paz,8/28/20,30349
+La Paz,8/29/20,30678
+La Paz,8/30/20,30898
+La Paz,8/31/20,30999
+La Paz,9/1/20,31039
+La Paz,9/2/20,31124
+La Paz,9/3/20,31232
+La Paz,9/4/20,31446
+La Paz,9/5/20,31725
+La Paz,9/6/20,31889
+La Paz,9/7/20,32161
+La Paz,9/8/20,32268
+La Paz,9/9/20,32565
+La Paz,9/10/20,32797
+La Paz,9/11/20,32950
+La Paz,9/12/20,33082
+La Paz,9/13/20,33296
+La Paz,9/14/20,33619
+La Paz,9/15/20,33731
+La Paz,9/16/20,33804
+La Paz,9/17/20,33842
+La Paz,9/18/20,33875
+La Paz,9/19/20,33969
+La Paz,9/20/20,34003
+La Paz,9/21/20,34030
+La Paz,9/22/20,34067
+La Paz,9/23/20,34091
+La Paz,9/24/20,34136
+La Paz,9/25/20,34181
+La Paz,9/26/20,34181
+Cochabamba,3/21/20,2
+Cochabamba,3/22/20,3
+Cochabamba,3/23/20,3
+Cochabamba,3/24/20,3
+Cochabamba,3/25/20,3
+Cochabamba,3/26/20,10
+Cochabamba,3/27/20,14
+Cochabamba,3/28/20,14
+Cochabamba,3/29/20,18
+Cochabamba,3/30/20,20
+Cochabamba,3/31/20,20
+Cochabamba,4/1/20,21
+Cochabamba,4/2/20,22
+Cochabamba,4/3/20,24
+Cochabamba,4/4/20,25
+Cochabamba,4/5/20,33
+Cochabamba,4/6/20,33
+Cochabamba,4/7/20,38
+Cochabamba,4/8/20,47
+Cochabamba,4/9/20,48
+Cochabamba,4/10/20,48
+Cochabamba,4/11/20,49
+Cochabamba,4/12/20,52
+Cochabamba,4/13/20,54
+Cochabamba,4/14/20,57
+Cochabamba,4/15/20,59
+Cochabamba,4/16/20,59
+Cochabamba,4/17/20,60
+Cochabamba,4/18/20,60
+Cochabamba,4/19/20,61
+Cochabamba,4/20/20,61
+Cochabamba,4/21/20,62
+Cochabamba,4/22/20,63
+Cochabamba,4/23/20,66
+Cochabamba,4/24/20,70
+Cochabamba,4/25/20,71
+Cochabamba,4/26/20,78
+Cochabamba,4/27/20,78
+Cochabamba,4/28/20,79
+Cochabamba,4/29/20,80
+Cochabamba,4/30/20,80
+Cochabamba,5/1/20,80
+Cochabamba,5/2/20,81
+Cochabamba,5/3/20,81
+Cochabamba,5/4/20,82
+Cochabamba,5/5/20,82
+Cochabamba,5/6/20,82
+Cochabamba,5/7/20,82
+Cochabamba,5/8/20,90
+Cochabamba,5/9/20,95
+Cochabamba,5/10/20,104
+Cochabamba,5/11/20,109
+Cochabamba,5/12/20,130
+Cochabamba,5/13/20,148
+Cochabamba,5/14/20,170
+Cochabamba,5/15/20,196
+Cochabamba,5/16/20,214
+Cochabamba,5/17/20,224
+Cochabamba,5/18/20,228
+Cochabamba,5/19/20,246
+Cochabamba,5/20/20,259
+Cochabamba,5/21/20,266
+Cochabamba,5/22/20,285
+Cochabamba,5/23/20,295
+Cochabamba,5/24/20,329
+Cochabamba,5/25/20,339
+Cochabamba,5/26/20,345
+Cochabamba,5/27/20,376
+Cochabamba,5/28/20,419
+Cochabamba,5/29/20,488
+Cochabamba,5/30/20,556
+Cochabamba,5/31/20,611
+Cochabamba,6/1/20,714
+Cochabamba,6/2/20,786
+Cochabamba,6/3/20,851
+Cochabamba,6/4/20,898
+Cochabamba,6/5/20,960
+Cochabamba,6/6/20,1022
+Cochabamba,6/7/20,1097
+Cochabamba,6/8/20,1097
+Cochabamba,6/9/20,1231
+Cochabamba,6/10/20,1297
+Cochabamba,6/11/20,1369
+Cochabamba,6/12/20,1441
+Cochabamba,6/13/20,1537
+Cochabamba,6/14/20,1723
+Cochabamba,6/15/20,1878
+Cochabamba,6/16/20,1915
+Cochabamba,6/17/20,2041
+Cochabamba,6/18/20,2179
+Cochabamba,6/19/20,2302
+Cochabamba,6/20/20,2360
+Cochabamba,6/21/20,2551
+Cochabamba,6/22/20,2612
+Cochabamba,6/23/20,2775
+Cochabamba,6/24/20,2920
+Cochabamba,6/25/20,2970
+Cochabamba,6/26/20,3233
+Cochabamba,6/27/20,3416
+Cochabamba,6/28/20,3468
+Cochabamba,6/29/20,3501
+Cochabamba,6/30/20,3640
+Cochabamba,7/1/20,3744
+Cochabamba,7/2/20,3836
+Cochabamba,7/3/20,4089
+Cochabamba,7/4/20,4146
+Cochabamba,7/5/20,4199
+Cochabamba,7/6/20,4429
+Cochabamba,7/7/20,4492
+Cochabamba,7/8/20,4635
+Cochabamba,7/9/20,4769
+Cochabamba,7/10/20,4915
+Cochabamba,7/11/20,5014
+Cochabamba,7/12/20,5188
+Cochabamba,7/13/20,5315
+Cochabamba,7/14/20,5468
+Cochabamba,7/15/20,5744
+Cochabamba,7/16/20,5926
+Cochabamba,7/17/20,6045
+Cochabamba,7/18/20,6277
+Cochabamba,7/19/20,6406
+Cochabamba,7/20/20,6526
+Cochabamba,7/21/20,6694
+Cochabamba,7/22/20,6887
+Cochabamba,7/23/20,7047
+Cochabamba,7/24/20,7305
+Cochabamba,7/25/20,7420
+Cochabamba,7/26/20,7544
+Cochabamba,7/27/20,8104
+Cochabamba,7/28/20,8310
+Cochabamba,7/29/20,8410
+Cochabamba,7/30/20,8582
+Cochabamba,7/31/20,9030
+Cochabamba,8/1/20,9418
+Cochabamba,8/2/20,9626
+Cochabamba,8/3/20,9815
+Cochabamba,8/4/20,10031
+Cochabamba,8/5/20,10213
+Cochabamba,8/6/20,10309
+Cochabamba,8/7/20,10392
+Cochabamba,8/8/20,10435
+Cochabamba,8/9/20,10586
+Cochabamba,8/10/20,10722
+Cochabamba,8/11/20,10845
+Cochabamba,8/12/20,10990
+Cochabamba,8/13/20,11074
+Cochabamba,8/14/20,11259
+Cochabamba,8/15/20,11346
+Cochabamba,8/16/20,11359
+Cochabamba,8/17/20,11411
+Cochabamba,8/18/20,11491
+Cochabamba,8/19/20,11563
+Cochabamba,8/20/20,11621
+Cochabamba,8/21/20,11689
+Cochabamba,8/22/20,11791
+Cochabamba,8/23/20,11844
+Cochabamba,8/24/20,11956
+Cochabamba,8/25/20,12017
+Cochabamba,8/26/20,12068
+Cochabamba,8/27/20,12161
+Cochabamba,8/28/20,12204
+Cochabamba,8/29/20,12290
+Cochabamba,8/30/20,12297
+Cochabamba,8/31/20,12370
+Cochabamba,9/1/20,12432
+Cochabamba,9/2/20,12516
+Cochabamba,9/3/20,12559
+Cochabamba,9/4/20,12589
+Cochabamba,9/5/20,12615
+Cochabamba,9/6/20,12624
+Cochabamba,9/7/20,12629
+Cochabamba,9/8/20,12671
+Cochabamba,9/9/20,12721
+Cochabamba,9/10/20,12766
+Cochabamba,9/11/20,12889
+Cochabamba,9/12/20,13065
+Cochabamba,9/13/20,13142
+Cochabamba,9/14/20,13192
+Cochabamba,9/15/20,13261
+Cochabamba,9/16/20,13294
+Cochabamba,9/17/20,13328
+Cochabamba,9/18/20,13378
+Cochabamba,9/19/20,13392
+Cochabamba,9/20/20,13394
+Cochabamba,9/21/20,13422
+Cochabamba,9/22/20,13429
+Cochabamba,9/23/20,13451
+Cochabamba,9/24/20,13488
+Cochabamba,9/25/20,13507
+Cochabamba,9/26/20,13507
+Santa Cruz,3/21/20,9
+Santa Cruz,3/22/20,15
+Santa Cruz,3/23/20,16
+Santa Cruz,3/24/20,18
+Santa Cruz,3/25/20,24
+Santa Cruz,3/26/20,34
+Santa Cruz,3/27/20,42
+Santa Cruz,3/28/20,44
+Santa Cruz,3/29/20,52
+Santa Cruz,3/30/20,59
+Santa Cruz,3/31/20,64
+Santa Cruz,4/1/20,68
+Santa Cruz,4/2/20,70
+Santa Cruz,4/3/20,74
+Santa Cruz,4/4/20,88
+Santa Cruz,4/5/20,97
+Santa Cruz,4/6/20,100
+Santa Cruz,4/7/20,103
+Santa Cruz,4/8/20,127
+Santa Cruz,4/9/20,130
+Santa Cruz,4/10/20,134
+Santa Cruz,4/11/20,147
+Santa Cruz,4/12/20,163
+Santa Cruz,4/13/20,177
+Santa Cruz,4/14/20,190
+Santa Cruz,4/15/20,215
+Santa Cruz,4/16/20,218
+Santa Cruz,4/17/20,237
+Santa Cruz,4/18/20,255
+Santa Cruz,4/19/20,290
+Santa Cruz,4/20/20,317
+Santa Cruz,4/21/20,324
+Santa Cruz,4/22/20,371
+Santa Cruz,4/23/20,385
+Santa Cruz,4/24/20,446
+Santa Cruz,4/25/20,489
+Santa Cruz,4/26/20,525
+Santa Cruz,4/27/20,553
+Santa Cruz,4/28/20,587
+Santa Cruz,4/29/20,615
+Santa Cruz,4/30/20,656
+Santa Cruz,5/1/20,693
+Santa Cruz,5/2/20,806
+Santa Cruz,5/3/20,904
+Santa Cruz,5/4/20,979
+Santa Cruz,5/5/20,1083
+Santa Cruz,5/6/20,1160
+Santa Cruz,5/7/20,1318
+Santa Cruz,5/8/20,1387
+Santa Cruz,5/9/20,1537
+Santa Cruz,5/10/20,1633
+Santa Cruz,5/11/20,1823
+Santa Cruz,5/12/20,1925
+Santa Cruz,5/13/20,2041
+Santa Cruz,5/14/20,2163
+Santa Cruz,5/15/20,2297
+Santa Cruz,5/16/20,2518
+Santa Cruz,5/17/20,2763
+Santa Cruz,5/18/20,2894
+Santa Cruz,5/19/20,2982
+Santa Cruz,5/20/20,3241
+Santa Cruz,5/21/20,3414
+Santa Cruz,5/22/20,3665
+Santa Cruz,5/23/20,3900
+Santa Cruz,5/24/20,4199
+Santa Cruz,5/25/20,4527
+Santa Cruz,5/26/20,4888
+Santa Cruz,5/27/20,5366
+Santa Cruz,5/28/20,5774
+Santa Cruz,5/29/20,5946
+Santa Cruz,5/30/20,6542
+Santa Cruz,5/31/20,6711
+Santa Cruz,6/1/20,7018
+Santa Cruz,6/2/20,7235
+Santa Cruz,6/3/20,7637
+Santa Cruz,6/4/20,7952
+Santa Cruz,6/5/20,8144
+Santa Cruz,6/6/20,8556
+Santa Cruz,6/7/20,8676
+Santa Cruz,6/8/20,8676
+Santa Cruz,6/9/20,9224
+Santa Cruz,6/10/20,9594
+Santa Cruz,6/11/20,10127
+Santa Cruz,6/12/20,10536
+Santa Cruz,6/13/20,11154
+Santa Cruz,6/14/20,11424
+Santa Cruz,6/15/20,11741
+Santa Cruz,6/16/20,12366
+Santa Cruz,6/17/20,12725
+Santa Cruz,6/18/20,12988
+Santa Cruz,6/19/20,13539
+Santa Cruz,6/20/20,14165
+Santa Cruz,6/21/20,14499
+Santa Cruz,6/22/20,15067
+Santa Cruz,6/23/20,15442
+Santa Cruz,6/24/20,15984
+Santa Cruz,6/25/20,16555
+Santa Cruz,6/26/20,16777
+Santa Cruz,6/27/20,17455
+Santa Cruz,6/28/20,17873
+Santa Cruz,6/29/20,18211
+Santa Cruz,6/30/20,18881
+Santa Cruz,7/1/20,19257
+Santa Cruz,7/2/20,19991
+Santa Cruz,7/3/20,20558
+Santa Cruz,7/4/20,21190
+Santa Cruz,7/5/20,21752
+Santa Cruz,7/6/20,21953
+Santa Cruz,7/7/20,22398
+Santa Cruz,7/8/20,22926
+Santa Cruz,7/9/20,23411
+Santa Cruz,7/10/20,24025
+Santa Cruz,7/11/20,24625
+Santa Cruz,7/12/20,24900
+Santa Cruz,7/13/20,25260
+Santa Cruz,7/14/20,26124
+Santa Cruz,7/15/20,26671
+Santa Cruz,7/16/20,27744
+Santa Cruz,7/17/20,28989
+Santa Cruz,7/18/20,29484
+Santa Cruz,7/19/20,29754
+Santa Cruz,7/20/20,30309
+Santa Cruz,7/21/20,30887
+Santa Cruz,7/22/20,31400
+Santa Cruz,7/23/20,31656
+Santa Cruz,7/24/20,31846
+Santa Cruz,7/25/20,32138
+Santa Cruz,7/26/20,32372
+Santa Cruz,7/27/20,32653
+Santa Cruz,7/28/20,33084
+Santa Cruz,7/29/20,33550
+Santa Cruz,7/30/20,33990
+Santa Cruz,7/31/20,34409
+Santa Cruz,8/1/20,34738
+Santa Cruz,8/2/20,34972
+Santa Cruz,8/3/20,35296
+Santa Cruz,8/4/20,35759
+Santa Cruz,8/5/20,36081
+Santa Cruz,8/6/20,36459
+Santa Cruz,8/7/20,36688
+Santa Cruz,8/8/20,36924
+Santa Cruz,8/9/20,37057
+Santa Cruz,8/10/20,37392
+Santa Cruz,8/11/20,37599
+Santa Cruz,8/12/20,37831
+Santa Cruz,8/13/20,38016
+Santa Cruz,8/14/20,38187
+Santa Cruz,8/15/20,38301
+Santa Cruz,8/16/20,38416
+Santa Cruz,8/17/20,38511
+Santa Cruz,8/18/20,38580
+Santa Cruz,8/19/20,38862
+Santa Cruz,8/20/20,38969
+Santa Cruz,8/21/20,39113
+Santa Cruz,8/22/20,39286
+Santa Cruz,8/23/20,39373
+Santa Cruz,8/24/20,39437
+Santa Cruz,8/25/20,39616
+Santa Cruz,8/26/20,39878
+Santa Cruz,8/27/20,40014
+Santa Cruz,8/28/20,40176
+Santa Cruz,8/29/20,40270
+Santa Cruz,8/30/20,40293
+Santa Cruz,8/31/20,40445
+Santa Cruz,9/1/20,40638
+Santa Cruz,9/2/20,40792
+Santa Cruz,9/3/20,40885
+Santa Cruz,9/4/20,41007
+Santa Cruz,9/5/20,41085
+Santa Cruz,9/6/20,41112
+Santa Cruz,9/7/20,41197
+Santa Cruz,9/8/20,41314
+Santa Cruz,9/9/20,41430
+Santa Cruz,9/10/20,41555
+Santa Cruz,9/11/20,41653
+Santa Cruz,9/12/20,41691
+Santa Cruz,9/13/20,41759
+Santa Cruz,9/14/20,41819
+Santa Cruz,9/15/20,41923
+Santa Cruz,9/16/20,41991
+Santa Cruz,9/17/20,42064
+Santa Cruz,9/18/20,42100
+Santa Cruz,9/19/20,42153
+Santa Cruz,9/20/20,42178
+Santa Cruz,9/21/20,42226
+Santa Cruz,9/22/20,42276
+Santa Cruz,9/23/20,42336
+Santa Cruz,9/24/20,42374
+Santa Cruz,9/25/20,42508
+Santa Cruz,9/26/20,42508
+Oruro,3/21/20,8
+Oruro,3/22/20,8
+Oruro,3/23/20,8
+Oruro,3/24/20,8
+Oruro,3/25/20,8
+Oruro,3/26/20,8
+Oruro,3/27/20,8
+Oruro,3/28/20,8
+Oruro,3/29/20,8
+Oruro,3/30/20,8
+Oruro,3/31/20,8
+Oruro,4/1/20,8
+Oruro,4/2/20,8
+Oruro,4/3/20,8
+Oruro,4/4/20,8
+Oruro,4/5/20,8
+Oruro,4/6/20,8
+Oruro,4/7/20,8
+Oruro,4/8/20,8
+Oruro,4/9/20,8
+Oruro,4/10/20,9
+Oruro,4/11/20,11
+Oruro,4/12/20,13
+Oruro,4/13/20,14
+Oruro,4/14/20,30
+Oruro,4/15/20,37
+Oruro,4/16/20,38
+Oruro,4/17/20,42
+Oruro,4/18/20,45
+Oruro,4/19/20,45
+Oruro,4/20/20,49
+Oruro,4/21/20,49
+Oruro,4/22/20,59
+Oruro,4/23/20,62
+Oruro,4/24/20,65
+Oruro,4/25/20,65
+Oruro,4/26/20,79
+Oruro,4/27/20,92
+Oruro,4/28/20,92
+Oruro,4/29/20,102
+Oruro,4/30/20,102
+Oruro,5/1/20,107
+Oruro,5/2/20,111
+Oruro,5/3/20,111
+Oruro,5/4/20,111
+Oruro,5/5/20,113
+Oruro,5/6/20,113
+Oruro,5/7/20,115
+Oruro,5/8/20,116
+Oruro,5/9/20,121
+Oruro,5/10/20,124
+Oruro,5/11/20,124
+Oruro,5/12/20,128
+Oruro,5/13/20,128
+Oruro,5/14/20,132
+Oruro,5/15/20,132
+Oruro,5/16/20,133
+Oruro,5/17/20,135
+Oruro,5/18/20,137
+Oruro,5/19/20,138
+Oruro,5/20/20,138
+Oruro,5/21/20,141
+Oruro,5/22/20,143
+Oruro,5/23/20,145
+Oruro,5/24/20,150
+Oruro,5/25/20,151
+Oruro,5/26/20,153
+Oruro,5/27/20,155
+Oruro,5/28/20,159
+Oruro,5/29/20,166
+Oruro,5/30/20,190
+Oruro,5/31/20,204
+Oruro,6/1/20,210
+Oruro,6/2/20,218
+Oruro,6/3/20,222
+Oruro,6/4/20,238
+Oruro,6/5/20,247
+Oruro,6/6/20,256
+Oruro,6/7/20,260
+Oruro,6/8/20,260
+Oruro,6/9/20,288
+Oruro,6/10/20,305
+Oruro,6/11/20,334
+Oruro,6/12/20,358
+Oruro,6/13/20,369
+Oruro,6/14/20,378
+Oruro,6/15/20,389
+Oruro,6/16/20,400
+Oruro,6/17/20,420
+Oruro,6/18/20,443
+Oruro,6/19/20,459
+Oruro,6/20/20,469
+Oruro,6/21/20,488
+Oruro,6/22/20,599
+Oruro,6/23/20,675
+Oruro,6/24/20,699
+Oruro,6/25/20,721
+Oruro,6/26/20,792
+Oruro,6/27/20,794
+Oruro,6/28/20,878
+Oruro,6/29/20,899
+Oruro,6/30/20,949
+Oruro,7/1/20,1012
+Oruro,7/2/20,1093
+Oruro,7/3/20,1145
+Oruro,7/4/20,1189
+Oruro,7/5/20,1233
+Oruro,7/6/20,1283
+Oruro,7/7/20,1380
+Oruro,7/8/20,1491
+Oruro,7/9/20,1546
+Oruro,7/10/20,1635
+Oruro,7/11/20,1701
+Oruro,7/12/20,1786
+Oruro,7/13/20,1861
+Oruro,7/14/20,1921
+Oruro,7/15/20,1974
+Oruro,7/16/20,2016
+Oruro,7/17/20,2112
+Oruro,7/18/20,2177
+Oruro,7/19/20,2211
+Oruro,7/20/20,2244
+Oruro,7/21/20,2346
+Oruro,7/22/20,2431
+Oruro,7/23/20,2506
+Oruro,7/24/20,2557
+Oruro,7/25/20,2657
+Oruro,7/26/20,2756
+Oruro,7/27/20,2822
+Oruro,7/28/20,2859
+Oruro,7/29/20,2913
+Oruro,7/30/20,3073
+Oruro,7/31/20,3073
+Oruro,8/1/20,3573
+Oruro,8/2/20,3693
+Oruro,8/3/20,3741
+Oruro,8/4/20,3890
+Oruro,8/5/20,3960
+Oruro,8/6/20,4027
+Oruro,8/7/20,4039
+Oruro,8/8/20,4117
+Oruro,8/9/20,4138
+Oruro,8/10/20,4150
+Oruro,8/11/20,4193
+Oruro,8/12/20,4214
+Oruro,8/13/20,4227
+Oruro,8/14/20,4237
+Oruro,8/15/20,4255
+Oruro,8/16/20,4269
+Oruro,8/17/20,4283
+Oruro,8/18/20,4299
+Oruro,8/19/20,4367
+Oruro,8/20/20,4496
+Oruro,8/21/20,4575
+Oruro,8/22/20,4636
+Oruro,8/23/20,4689
+Oruro,8/24/20,4718
+Oruro,8/25/20,4736
+Oruro,8/26/20,4766
+Oruro,8/27/20,4818
+Oruro,8/28/20,4856
+Oruro,8/29/20,4907
+Oruro,8/30/20,4951
+Oruro,8/31/20,4960
+Oruro,9/1/20,4968
+Oruro,9/2/20,4984
+Oruro,9/3/20,5086
+Oruro,9/4/20,5129
+Oruro,9/5/20,5148
+Oruro,9/6/20,5176
+Oruro,9/7/20,5185
+Oruro,9/8/20,5199
+Oruro,9/9/20,5298
+Oruro,9/10/20,5349
+Oruro,9/11/20,5359
+Oruro,9/12/20,5380
+Oruro,9/13/20,5413
+Oruro,9/14/20,5442
+Oruro,9/15/20,5451
+Oruro,9/16/20,5476
+Oruro,9/17/20,5493
+Oruro,9/18/20,5515
+Oruro,9/19/20,5527
+Oruro,9/20/20,5549
+Oruro,9/21/20,5555
+Oruro,9/22/20,5565
+Oruro,9/23/20,5606
+Oruro,9/24/20,5650
+Oruro,9/25/20,5679
+Oruro,9/26/20,5679
+Potosi,3/21/20,0
+Potosi,3/22/20,0
+Potosi,3/23/20,0
+Potosi,3/24/20,0
+Potosi,3/25/20,0
+Potosi,3/26/20,1
+Potosi,3/27/20,1
+Potosi,3/28/20,3
+Potosi,3/29/20,3
+Potosi,3/30/20,3
+Potosi,3/31/20,4
+Potosi,4/1/20,4
+Potosi,4/2/20,5
+Potosi,4/3/20,5
+Potosi,4/4/20,5
+Potosi,4/5/20,5
+Potosi,4/6/20,8
+Potosi,4/7/20,10
+Potosi,4/8/20,13
+Potosi,4/9/20,13
+Potosi,4/10/20,13
+Potosi,4/11/20,15
+Potosi,4/12/20,15
+Potosi,4/13/20,15
+Potosi,4/14/20,15
+Potosi,4/15/20,15
+Potosi,4/16/20,16
+Potosi,4/17/20,18
+Potosi,4/18/20,18
+Potosi,4/19/20,19
+Potosi,4/20/20,19
+Potosi,4/21/20,19
+Potosi,4/22/20,21
+Potosi,4/23/20,21
+Potosi,4/24/20,21
+Potosi,4/25/20,26
+Potosi,4/26/20,26
+Potosi,4/27/20,26
+Potosi,4/28/20,26
+Potosi,4/29/20,26
+Potosi,4/30/20,26
+Potosi,5/1/20,26
+Potosi,5/2/20,26
+Potosi,5/3/20,26
+Potosi,5/4/20,33
+Potosi,5/5/20,35
+Potosi,5/6/20,35
+Potosi,5/7/20,35
+Potosi,5/8/20,35
+Potosi,5/9/20,35
+Potosi,5/10/20,35
+Potosi,5/11/20,36
+Potosi,5/12/20,36
+Potosi,5/13/20,36
+Potosi,5/14/20,36
+Potosi,5/15/20,36
+Potosi,5/16/20,36
+Potosi,5/17/20,38
+Potosi,5/18/20,39
+Potosi,5/19/20,39
+Potosi,5/20/20,40
+Potosi,5/21/20,41
+Potosi,5/22/20,41
+Potosi,5/23/20,41
+Potosi,5/24/20,42
+Potosi,5/25/20,44
+Potosi,5/26/20,44
+Potosi,5/27/20,44
+Potosi,5/28/20,46
+Potosi,5/29/20,48
+Potosi,5/30/20,48
+Potosi,5/31/20,68
+Potosi,6/1/20,70
+Potosi,6/2/20,93
+Potosi,6/3/20,98
+Potosi,6/4/20,119
+Potosi,6/5/20,147
+Potosi,6/6/20,171
+Potosi,6/7/20,183
+Potosi,6/8/20,183
+Potosi,6/9/20,200
+Potosi,6/10/20,205
+Potosi,6/11/20,268
+Potosi,6/12/20,274
+Potosi,6/13/20,295
+Potosi,6/14/20,331
+Potosi,6/15/20,343
+Potosi,6/16/20,361
+Potosi,6/17/20,378
+Potosi,6/18/20,378
+Potosi,6/19/20,407
+Potosi,6/20/20,424
+Potosi,6/21/20,428
+Potosi,6/22/20,546
+Potosi,6/23/20,560
+Potosi,6/24/20,576
+Potosi,6/25/20,588
+Potosi,6/26/20,589
+Potosi,6/27/20,603
+Potosi,6/28/20,641
+Potosi,6/29/20,664
+Potosi,6/30/20,674
+Potosi,7/1/20,689
+Potosi,7/2/20,720
+Potosi,7/3/20,728
+Potosi,7/4/20,758
+Potosi,7/5/20,761
+Potosi,7/6/20,782
+Potosi,7/7/20,801
+Potosi,7/8/20,831
+Potosi,7/9/20,844
+Potosi,7/10/20,847
+Potosi,7/11/20,858
+Potosi,7/12/20,895
+Potosi,7/13/20,919
+Potosi,7/14/20,969
+Potosi,7/15/20,1000
+Potosi,7/16/20,1060
+Potosi,7/17/20,1086
+Potosi,7/18/20,1097
+Potosi,7/19/20,1172
+Potosi,7/20/20,1188
+Potosi,7/21/20,1188
+Potosi,7/22/20,1249
+Potosi,7/23/20,1266
+Potosi,7/24/20,1385
+Potosi,7/25/20,1390
+Potosi,7/26/20,1436
+Potosi,7/27/20,1443
+Potosi,7/28/20,1458
+Potosi,7/29/20,1464
+Potosi,7/30/20,1470
+Potosi,7/31/20,1486
+Potosi,8/1/20,1520
+Potosi,8/2/20,1576
+Potosi,8/3/20,1627
+Potosi,8/4/20,1670
+Potosi,8/5/20,1747
+Potosi,8/6/20,1760
+Potosi,8/7/20,1792
+Potosi,8/8/20,1820
+Potosi,8/9/20,1860
+Potosi,8/10/20,1941
+Potosi,8/11/20,2232
+Potosi,8/12/20,2352
+Potosi,8/13/20,2608
+Potosi,8/14/20,2843
+Potosi,8/15/20,3037
+Potosi,8/16/20,3153
+Potosi,8/17/20,3291
+Potosi,8/18/20,4152
+Potosi,8/19/20,4420
+Potosi,8/20/20,4538
+Potosi,8/21/20,4636
+Potosi,8/22/20,4736
+Potosi,8/23/20,4771
+Potosi,8/24/20,4832
+Potosi,8/25/20,4944
+Potosi,8/26/20,5138
+Potosi,8/27/20,5252
+Potosi,8/28/20,5417
+Potosi,8/29/20,5472
+Potosi,8/30/20,5472
+Potosi,8/31/20,5539
+Potosi,9/1/20,5655
+Potosi,9/2/20,5760
+Potosi,9/3/20,5861
+Potosi,9/4/20,6039
+Potosi,9/5/20,6107
+Potosi,9/6/20,6215
+Potosi,9/7/20,6389
+Potosi,9/8/20,6561
+Potosi,9/9/20,6744
+Potosi,9/10/20,6933
+Potosi,9/11/20,7166
+Potosi,9/12/20,7255
+Potosi,9/13/20,7294
+Potosi,9/14/20,7387
+Potosi,9/15/20,7469
+Potosi,9/16/20,7519
+Potosi,9/17/20,7540
+Potosi,9/18/20,7653
+Potosi,9/19/20,7666
+Potosi,9/20/20,7682
+Potosi,9/21/20,7736
+Potosi,9/22/20,7790
+Potosi,9/23/20,7925
+Potosi,9/24/20,7988
+Potosi,9/25/20,8055
+Potosi,9/26/20,8055
+Tarija,3/21/20,0
+Tarija,3/22/20,0
+Tarija,3/23/20,0
+Tarija,3/24/20,0
+Tarija,3/25/20,0
+Tarija,3/26/20,0
+Tarija,3/27/20,0
+Tarija,3/28/20,0
+Tarija,3/29/20,0
+Tarija,3/30/20,1
+Tarija,3/31/20,1
+Tarija,4/1/20,1
+Tarija,4/2/20,1
+Tarija,4/3/20,1
+Tarija,4/4/20,1
+Tarija,4/5/20,1
+Tarija,4/6/20,1
+Tarija,4/7/20,1
+Tarija,4/8/20,1
+Tarija,4/9/20,1
+Tarija,4/10/20,1
+Tarija,4/11/20,1
+Tarija,4/12/20,2
+Tarija,4/13/20,2
+Tarija,4/14/20,2
+Tarija,4/15/20,2
+Tarija,4/16/20,2
+Tarija,4/17/20,3
+Tarija,4/18/20,3
+Tarija,4/19/20,3
+Tarija,4/20/20,3
+Tarija,4/21/20,3
+Tarija,4/22/20,3
+Tarija,4/23/20,3
+Tarija,4/24/20,3
+Tarija,4/25/20,3
+Tarija,4/26/20,3
+Tarija,4/27/20,3
+Tarija,4/28/20,3
+Tarija,4/29/20,3
+Tarija,4/30/20,3
+Tarija,5/1/20,3
+Tarija,5/2/20,3
+Tarija,5/3/20,3
+Tarija,5/4/20,4
+Tarija,5/5/20,6
+Tarija,5/6/20,6
+Tarija,5/7/20,6
+Tarija,5/8/20,9
+Tarija,5/9/20,10
+Tarija,5/10/20,10
+Tarija,5/11/20,10
+Tarija,5/12/20,13
+Tarija,5/13/20,13
+Tarija,5/14/20,13
+Tarija,5/15/20,13
+Tarija,5/16/20,13
+Tarija,5/17/20,13
+Tarija,5/18/20,13
+Tarija,5/19/20,13
+Tarija,5/20/20,14
+Tarija,5/21/20,17
+Tarija,5/22/20,18
+Tarija,5/23/20,18
+Tarija,5/24/20,18
+Tarija,5/25/20,19
+Tarija,5/26/20,19
+Tarija,5/27/20,19
+Tarija,5/28/20,22
+Tarija,5/29/20,24
+Tarija,5/30/20,32
+Tarija,5/31/20,32
+Tarija,6/1/20,37
+Tarija,6/2/20,37
+Tarija,6/3/20,40
+Tarija,6/4/20,44
+Tarija,6/5/20,49
+Tarija,6/6/20,58
+Tarija,6/7/20,58
+Tarija,6/8/20,58
+Tarija,6/9/20,68
+Tarija,6/10/20,69
+Tarija,6/11/20,77
+Tarija,6/12/20,87
+Tarija,6/13/20,112
+Tarija,6/14/20,112
+Tarija,6/15/20,123
+Tarija,6/16/20,149
+Tarija,6/17/20,175
+Tarija,6/18/20,191
+Tarija,6/19/20,206
+Tarija,6/20/20,239
+Tarija,6/21/20,246
+Tarija,6/22/20,275
+Tarija,6/23/20,299
+Tarija,6/24/20,331
+Tarija,6/25/20,393
+Tarija,6/26/20,432
+Tarija,6/27/20,514
+Tarija,6/28/20,537
+Tarija,6/29/20,596
+Tarija,6/30/20,652
+Tarija,7/1/20,709
+Tarija,7/2/20,764
+Tarija,7/3/20,830
+Tarija,7/4/20,916
+Tarija,7/5/20,971
+Tarija,7/6/20,1039
+Tarija,7/7/20,1069
+Tarija,7/8/20,1214
+Tarija,7/9/20,1284
+Tarija,7/10/20,1454
+Tarija,7/11/20,1501
+Tarija,7/12/20,1501
+Tarija,7/13/20,1533
+Tarija,7/14/20,1660
+Tarija,7/15/20,1743
+Tarija,7/16/20,1873
+Tarija,7/17/20,2028
+Tarija,7/18/20,2347
+Tarija,7/19/20,2483
+Tarija,7/20/20,2561
+Tarija,7/21/20,2583
+Tarija,7/22/20,2588
+Tarija,7/23/20,2594
+Tarija,7/24/20,2645
+Tarija,7/25/20,2825
+Tarija,7/26/20,3050
+Tarija,7/27/20,3194
+Tarija,7/28/20,3387
+Tarija,7/29/20,3548
+Tarija,7/30/20,3779
+Tarija,7/31/20,3929
+Tarija,8/1/20,4045
+Tarija,8/2/20,4275
+Tarija,8/3/20,4400
+Tarija,8/4/20,4507
+Tarija,8/5/20,4587
+Tarija,8/6/20,4611
+Tarija,8/7/20,4628
+Tarija,8/8/20,4629
+Tarija,8/9/20,4629
+Tarija,8/10/20,4779
+Tarija,8/11/20,4942
+Tarija,8/12/20,5140
+Tarija,8/13/20,5335
+Tarija,8/14/20,5539
+Tarija,8/15/20,5595
+Tarija,8/16/20,5647
+Tarija,8/17/20,5751
+Tarija,8/18/20,6012
+Tarija,8/19/20,6317
+Tarija,8/20/20,6507
+Tarija,8/21/20,6784
+Tarija,8/22/20,6905
+Tarija,8/23/20,6939
+Tarija,8/24/20,6982
+Tarija,8/25/20,7066
+Tarija,8/26/20,7163
+Tarija,8/27/20,7311
+Tarija,8/28/20,7510
+Tarija,8/29/20,7741
+Tarija,8/30/20,8015
+Tarija,8/31/20,8135
+Tarija,9/1/20,8269
+Tarija,9/2/20,8386
+Tarija,9/3/20,8632
+Tarija,9/4/20,8756
+Tarija,9/5/20,8880
+Tarija,9/6/20,9002
+Tarija,9/7/20,9240
+Tarija,9/8/20,9387
+Tarija,9/9/20,9516
+Tarija,9/10/20,9623
+Tarija,9/11/20,9845
+Tarija,9/12/20,10087
+Tarija,9/13/20,10371
+Tarija,9/14/20,10566
+Tarija,9/15/20,10785
+Tarija,9/16/20,11027
+Tarija,9/17/20,11267
+Tarija,9/18/20,11547
+Tarija,9/19/20,11741
+Tarija,9/20/20,11806
+Tarija,9/21/20,11934
+Tarija,9/22/20,12146
+Tarija,9/23/20,12313
+Tarija,9/24/20,12631
+Tarija,9/25/20,12865
+Tarija,9/26/20,12865
+Chuquisaca,3/21/20,0
+Chuquisaca,3/22/20,0
+Chuquisaca,3/23/20,0
+Chuquisaca,3/24/20,0
+Chuquisaca,3/25/20,0
+Chuquisaca,3/26/20,0
+Chuquisaca,3/27/20,1
+Chuquisaca,3/28/20,1
+Chuquisaca,3/29/20,1
+Chuquisaca,3/30/20,1
+Chuquisaca,3/31/20,1
+Chuquisaca,4/1/20,1
+Chuquisaca,4/2/20,1
+Chuquisaca,4/3/20,1
+Chuquisaca,4/4/20,1
+Chuquisaca,4/5/20,1
+Chuquisaca,4/6/20,1
+Chuquisaca,4/7/20,1
+Chuquisaca,4/8/20,1
+Chuquisaca,4/9/20,1
+Chuquisaca,4/10/20,1
+Chuquisaca,4/11/20,1
+Chuquisaca,4/12/20,1
+Chuquisaca,4/13/20,1
+Chuquisaca,4/14/20,1
+Chuquisaca,4/15/20,1
+Chuquisaca,4/16/20,1
+Chuquisaca,4/17/20,1
+Chuquisaca,4/18/20,1
+Chuquisaca,4/19/20,1
+Chuquisaca,4/20/20,1
+Chuquisaca,4/21/20,1
+Chuquisaca,4/22/20,1
+Chuquisaca,4/23/20,2
+Chuquisaca,4/24/20,2
+Chuquisaca,4/25/20,2
+Chuquisaca,4/26/20,2
+Chuquisaca,4/27/20,3
+Chuquisaca,4/28/20,3
+Chuquisaca,4/29/20,3
+Chuquisaca,4/30/20,3
+Chuquisaca,5/1/20,4
+Chuquisaca,5/2/20,4
+Chuquisaca,5/3/20,4
+Chuquisaca,5/4/20,5
+Chuquisaca,5/5/20,6
+Chuquisaca,5/6/20,6
+Chuquisaca,5/7/20,11
+Chuquisaca,5/8/20,11
+Chuquisaca,5/9/20,14
+Chuquisaca,5/10/20,15
+Chuquisaca,5/11/20,15
+Chuquisaca,5/12/20,15
+Chuquisaca,5/13/20,15
+Chuquisaca,5/14/20,15
+Chuquisaca,5/15/20,15
+Chuquisaca,5/16/20,16
+Chuquisaca,5/17/20,17
+Chuquisaca,5/18/20,17
+Chuquisaca,5/19/20,17
+Chuquisaca,5/20/20,19
+Chuquisaca,5/21/20,19
+Chuquisaca,5/22/20,19
+Chuquisaca,5/23/20,21
+Chuquisaca,5/24/20,21
+Chuquisaca,5/25/20,22
+Chuquisaca,5/26/20,22
+Chuquisaca,5/27/20,25
+Chuquisaca,5/28/20,25
+Chuquisaca,5/29/20,25
+Chuquisaca,5/30/20,25
+Chuquisaca,5/31/20,26
+Chuquisaca,6/1/20,28
+Chuquisaca,6/2/20,29
+Chuquisaca,6/3/20,31
+Chuquisaca,6/4/20,32
+Chuquisaca,6/5/20,38
+Chuquisaca,6/6/20,39
+Chuquisaca,6/7/20,39
+Chuquisaca,6/8/20,39
+Chuquisaca,6/9/20,43
+Chuquisaca,6/10/20,61
+Chuquisaca,6/11/20,74
+Chuquisaca,6/12/20,85
+Chuquisaca,6/13/20,100
+Chuquisaca,6/14/20,102
+Chuquisaca,6/15/20,117
+Chuquisaca,6/16/20,129
+Chuquisaca,6/17/20,134
+Chuquisaca,6/18/20,185
+Chuquisaca,6/19/20,196
+Chuquisaca,6/20/20,253
+Chuquisaca,6/21/20,301
+Chuquisaca,6/22/20,301
+Chuquisaca,6/23/20,382
+Chuquisaca,6/24/20,422
+Chuquisaca,6/25/20,470
+Chuquisaca,6/26/20,524
+Chuquisaca,6/27/20,578
+Chuquisaca,6/28/20,637
+Chuquisaca,6/29/20,644
+Chuquisaca,6/30/20,707
+Chuquisaca,7/1/20,766
+Chuquisaca,7/2/20,811
+Chuquisaca,7/3/20,852
+Chuquisaca,7/4/20,917
+Chuquisaca,7/5/20,967
+Chuquisaca,7/6/20,1000
+Chuquisaca,7/7/20,1068
+Chuquisaca,7/8/20,1099
+Chuquisaca,7/9/20,1162
+Chuquisaca,7/10/20,1165
+Chuquisaca,7/11/20,1298
+Chuquisaca,7/12/20,1332
+Chuquisaca,7/13/20,1332
+Chuquisaca,7/14/20,1374
+Chuquisaca,7/15/20,1422
+Chuquisaca,7/16/20,1490
+Chuquisaca,7/17/20,1536
+Chuquisaca,7/18/20,1588
+Chuquisaca,7/19/20,1605
+Chuquisaca,7/20/20,1637
+Chuquisaca,7/21/20,1662
+Chuquisaca,7/22/20,1698
+Chuquisaca,7/23/20,1736
+Chuquisaca,7/24/20,1807
+Chuquisaca,7/25/20,1826
+Chuquisaca,7/26/20,1834
+Chuquisaca,7/27/20,1894
+Chuquisaca,7/28/20,1921
+Chuquisaca,7/29/20,1944
+Chuquisaca,7/30/20,1962
+Chuquisaca,7/31/20,2051
+Chuquisaca,8/1/20,2094
+Chuquisaca,8/2/20,2141
+Chuquisaca,8/3/20,2199
+Chuquisaca,8/4/20,2261
+Chuquisaca,8/5/20,2337
+Chuquisaca,8/6/20,2436
+Chuquisaca,8/7/20,2562
+Chuquisaca,8/8/20,2661
+Chuquisaca,8/9/20,2712
+Chuquisaca,8/10/20,2837
+Chuquisaca,8/11/20,2978
+Chuquisaca,8/12/20,3127
+Chuquisaca,8/13/20,3296
+Chuquisaca,8/14/20,3477
+Chuquisaca,8/15/20,3623
+Chuquisaca,8/16/20,3808
+Chuquisaca,8/17/20,3985
+Chuquisaca,8/18/20,4147
+Chuquisaca,8/19/20,4254
+Chuquisaca,8/20/20,4343
+Chuquisaca,8/21/20,4421
+Chuquisaca,8/22/20,4536
+Chuquisaca,8/23/20,4638
+Chuquisaca,8/24/20,4705
+Chuquisaca,8/25/20,4786
+Chuquisaca,8/26/20,4851
+Chuquisaca,8/27/20,4923
+Chuquisaca,8/28/20,5024
+Chuquisaca,8/29/20,5097
+Chuquisaca,8/30/20,5133
+Chuquisaca,8/31/20,5220
+Chuquisaca,9/1/20,5295
+Chuquisaca,9/2/20,5360
+Chuquisaca,9/3/20,5433
+Chuquisaca,9/4/20,5496
+Chuquisaca,9/5/20,5546
+Chuquisaca,9/6/20,5606
+Chuquisaca,9/7/20,5627
+Chuquisaca,9/8/20,5705
+Chuquisaca,9/9/20,5840
+Chuquisaca,9/10/20,5911
+Chuquisaca,9/11/20,6019
+Chuquisaca,9/12/20,6127
+Chuquisaca,9/13/20,6204
+Chuquisaca,9/14/20,6268
+Chuquisaca,9/15/20,6339
+Chuquisaca,9/16/20,6418
+Chuquisaca,9/17/20,6518
+Chuquisaca,9/18/20,6605
+Chuquisaca,9/19/20,6639
+Chuquisaca,9/20/20,6680
+Chuquisaca,9/21/20,6696
+Chuquisaca,9/22/20,6769
+Chuquisaca,9/23/20,6817
+Chuquisaca,9/24/20,6879
+Chuquisaca,9/25/20,6940
+Chuquisaca,9/26/20,6940
+Beni,3/21/20,0
+Beni,3/22/20,0
+Beni,3/23/20,0
+Beni,3/24/20,0
+Beni,3/25/20,0
+Beni,3/26/20,0
+Beni,3/27/20,0
+Beni,3/28/20,0
+Beni,3/29/20,0
+Beni,3/30/20,0
+Beni,3/31/20,0
+Beni,4/1/20,0
+Beni,4/2/20,0
+Beni,4/3/20,0
+Beni,4/4/20,0
+Beni,4/5/20,0
+Beni,4/6/20,0
+Beni,4/7/20,0
+Beni,4/8/20,0
+Beni,4/9/20,0
+Beni,4/10/20,0
+Beni,4/11/20,0
+Beni,4/12/20,0
+Beni,4/13/20,0
+Beni,4/14/20,0
+Beni,4/15/20,0
+Beni,4/16/20,0
+Beni,4/17/20,0
+Beni,4/18/20,0
+Beni,4/19/20,0
+Beni,4/20/20,2
+Beni,4/21/20,2
+Beni,4/22/20,2
+Beni,4/23/20,2
+Beni,4/24/20,33
+Beni,4/25/20,39
+Beni,4/26/20,57
+Beni,4/27/20,62
+Beni,4/28/20,63
+Beni,4/29/20,67
+Beni,4/30/20,67
+Beni,5/1/20,83
+Beni,5/2/20,191
+Beni,5/3/20,212
+Beni,5/4/20,212
+Beni,5/5/20,212
+Beni,5/6/20,212
+Beni,5/7/20,231
+Beni,5/8/20,312
+Beni,5/9/20,312
+Beni,5/10/20,314
+Beni,5/11/20,389
+Beni,5/12/20,389
+Beni,5/13/20,436
+Beni,5/14/20,509
+Beni,5/15/20,548
+Beni,5/16/20,551
+Beni,5/17/20,551
+Beni,5/18/20,581
+Beni,5/19/20,679
+Beni,5/20/20,833
+Beni,5/21/20,902
+Beni,5/22/20,1015
+Beni,5/23/20,1097
+Beni,5/24/20,1097
+Beni,5/25/20,1142
+Beni,5/26/20,1242
+Beni,5/27/20,1355
+Beni,5/28/20,1506
+Beni,5/29/20,1576
+Beni,5/30/20,1707
+Beni,5/31/20,1809
+Beni,6/1/20,1885
+Beni,6/2/20,1965
+Beni,6/3/20,2101
+Beni,6/4/20,2278
+Beni,6/5/20,2428
+Beni,6/6/20,2472
+Beni,6/7/20,2511
+Beni,6/8/20,2511
+Beni,6/9/20,2692
+Beni,6/10/20,2778
+Beni,6/11/20,2809
+Beni,6/12/20,2927
+Beni,6/13/20,2944
+Beni,6/14/20,2954
+Beni,6/15/20,2962
+Beni,6/16/20,2994
+Beni,6/17/20,3128
+Beni,6/18/20,3326
+Beni,6/19/20,3473
+Beni,6/20/20,3581
+Beni,6/21/20,3613
+Beni,6/22/20,3679
+Beni,6/23/20,3785
+Beni,6/24/20,3887
+Beni,6/25/20,3920
+Beni,6/26/20,3934
+Beni,6/27/20,3975
+Beni,6/28/20,4041
+Beni,6/29/20,4075
+Beni,6/30/20,4119
+Beni,7/1/20,4173
+Beni,7/2/20,4203
+Beni,7/3/20,4265
+Beni,7/4/20,4275
+Beni,7/5/20,4275
+Beni,7/6/20,4332
+Beni,7/7/20,4435
+Beni,7/8/20,4611
+Beni,7/9/20,4695
+Beni,7/10/20,4794
+Beni,7/11/20,4811
+Beni,7/12/20,4837
+Beni,7/13/20,4861
+Beni,7/14/20,4904
+Beni,7/15/20,4957
+Beni,7/16/20,5026
+Beni,7/17/20,5040
+Beni,7/18/20,5068
+Beni,7/19/20,5092
+Beni,7/20/20,5124
+Beni,7/21/20,5163
+Beni,7/22/20,5173
+Beni,7/23/20,5193
+Beni,7/24/20,5276
+Beni,7/25/20,5289
+Beni,7/26/20,5290
+Beni,7/27/20,5295
+Beni,7/28/20,5315
+Beni,7/29/20,5325
+Beni,7/30/20,5376
+Beni,7/31/20,5441
+Beni,8/1/20,5552
+Beni,8/2/20,5619
+Beni,8/3/20,5638
+Beni,8/4/20,5669
+Beni,8/5/20,5697
+Beni,8/6/20,5729
+Beni,8/7/20,5760
+Beni,8/8/20,5777
+Beni,8/9/20,5789
+Beni,8/10/20,5836
+Beni,8/11/20,5921
+Beni,8/12/20,5930
+Beni,8/13/20,5954
+Beni,8/14/20,5954
+Beni,8/15/20,5957
+Beni,8/16/20,5957
+Beni,8/17/20,5971
+Beni,8/18/20,6022
+Beni,8/19/20,6093
+Beni,8/20/20,6156
+Beni,8/21/20,6238
+Beni,8/22/20,6322
+Beni,8/23/20,6335
+Beni,8/24/20,6342
+Beni,8/25/20,6422
+Beni,8/26/20,6449
+Beni,8/27/20,6502
+Beni,8/28/20,6565
+Beni,8/29/20,6584
+Beni,8/30/20,6592
+Beni,8/31/20,6610
+Beni,9/1/20,6639
+Beni,9/2/20,6671
+Beni,9/3/20,6753
+Beni,9/4/20,6771
+Beni,9/5/20,6785
+Beni,9/6/20,6792
+Beni,9/7/20,6821
+Beni,9/8/20,6846
+Beni,9/9/20,6873
+Beni,9/10/20,6913
+Beni,9/11/20,6933
+Beni,9/12/20,6937
+Beni,9/13/20,6954
+Beni,9/14/20,6968
+Beni,9/15/20,6969
+Beni,9/16/20,6983
+Beni,9/17/20,7007
+Beni,9/18/20,7017
+Beni,9/19/20,7022
+Beni,9/20/20,7023
+Beni,9/21/20,7026
+Beni,9/22/20,7049
+Beni,9/23/20,7089
+Beni,9/24/20,7109
+Beni,9/25/20,7124
+Beni,9/26/20,7124
+Pando,3/21/20,0
+Pando,3/22/20,0
+Pando,3/23/20,0
+Pando,3/24/20,0
+Pando,3/25/20,0
+Pando,3/26/20,0
+Pando,3/27/20,0
+Pando,3/28/20,1
+Pando,3/29/20,1
+Pando,3/30/20,1
+Pando,3/31/20,1
+Pando,4/1/20,4
+Pando,4/2/20,6
+Pando,4/3/20,6
+Pando,4/4/20,6
+Pando,4/5/20,6
+Pando,4/6/20,6
+Pando,4/7/20,10
+Pando,4/8/20,10
+Pando,4/9/20,10
+Pando,4/10/20,10
+Pando,4/11/20,11
+Pando,4/12/20,11
+Pando,4/13/20,11
+Pando,4/14/20,11
+Pando,4/15/20,11
+Pando,4/16/20,11
+Pando,4/17/20,12
+Pando,4/18/20,12
+Pando,4/19/20,12
+Pando,4/20/20,12
+Pando,4/21/20,12
+Pando,4/22/20,12
+Pando,4/23/20,12
+Pando,4/24/20,12
+Pando,4/25/20,12
+Pando,4/26/20,12
+Pando,4/27/20,12
+Pando,4/28/20,12
+Pando,4/29/20,12
+Pando,4/30/20,12
+Pando,5/1/20,12
+Pando,5/2/20,12
+Pando,5/3/20,12
+Pando,5/4/20,12
+Pando,5/5/20,12
+Pando,5/6/20,12
+Pando,5/7/20,12
+Pando,5/8/20,12
+Pando,5/9/20,12
+Pando,5/10/20,12
+Pando,5/11/20,12
+Pando,5/12/20,12
+Pando,5/13/20,12
+Pando,5/14/20,12
+Pando,5/15/20,12
+Pando,5/16/20,12
+Pando,5/17/20,12
+Pando,5/18/20,12
+Pando,5/19/20,12
+Pando,5/20/20,12
+Pando,5/21/20,12
+Pando,5/22/20,12
+Pando,5/23/20,12
+Pando,5/24/20,13
+Pando,5/25/20,13
+Pando,5/26/20,13
+Pando,5/27/20,13
+Pando,5/28/20,13
+Pando,5/29/20,14
+Pando,5/30/20,14
+Pando,5/31/20,14
+Pando,6/1/20,14
+Pando,6/2/20,14
+Pando,6/3/20,23
+Pando,6/4/20,23
+Pando,6/5/20,23
+Pando,6/6/20,47
+Pando,6/7/20,65
+Pando,6/8/20,65
+Pando,6/9/20,94
+Pando,6/10/20,130
+Pando,6/11/20,175
+Pando,6/12/20,238
+Pando,6/13/20,267
+Pando,6/14/20,286
+Pando,6/15/20,307
+Pando,6/16/20,315
+Pando,6/17/20,386
+Pando,6/18/20,409
+Pando,6/19/20,425
+Pando,6/20/20,476
+Pando,6/21/20,482
+Pando,6/22/20,496
+Pando,6/23/20,505
+Pando,6/24/20,507
+Pando,6/25/20,513
+Pando,6/26/20,562
+Pando,6/27/20,567
+Pando,6/28/20,567
+Pando,6/29/20,568
+Pando,6/30/20,568
+Pando,7/1/20,636
+Pando,7/2/20,713
+Pando,7/3/20,717
+Pando,7/4/20,808
+Pando,7/5/20,934
+Pando,7/6/20,1006
+Pando,7/7/20,1026
+Pando,7/8/20,1026
+Pando,7/9/20,1026
+Pando,7/10/20,1026
+Pando,7/11/20,1026
+Pando,7/12/20,1045
+Pando,7/13/20,1045
+Pando,7/14/20,1045
+Pando,7/15/20,1045
+Pando,7/16/20,1045
+Pando,7/17/20,1057
+Pando,7/18/20,1178
+Pando,7/19/20,1204
+Pando,7/20/20,1212
+Pando,7/21/20,1213
+Pando,7/22/20,1300
+Pando,7/23/20,1311
+Pando,7/24/20,1362
+Pando,7/25/20,1365
+Pando,7/26/20,1367
+Pando,7/27/20,1373
+Pando,7/28/20,1375
+Pando,7/29/20,1398
+Pando,7/30/20,1407
+Pando,7/31/20,1419
+Pando,8/1/20,1428
+Pando,8/2/20,1428
+Pando,8/3/20,1431
+Pando,8/4/20,1459
+Pando,8/5/20,1495
+Pando,8/6/20,1517
+Pando,8/7/20,1549
+Pando,8/8/20,1587
+Pando,8/9/20,1622
+Pando,8/10/20,1656
+Pando,8/11/20,1710
+Pando,8/12/20,1766
+Pando,8/13/20,1804
+Pando,8/14/20,1852
+Pando,8/15/20,1910
+Pando,8/16/20,1959
+Pando,8/17/20,1968
+Pando,8/18/20,2021
+Pando,8/19/20,2074
+Pando,8/20/20,2129
+Pando,8/21/20,2208
+Pando,8/22/20,2230
+Pando,8/23/20,2232
+Pando,8/24/20,2241
+Pando,8/25/20,2263
+Pando,8/26/20,2283
+Pando,8/27/20,2297
+Pando,8/28/20,2308
+Pando,8/29/20,2315
+Pando,8/30/20,2317
+Pando,8/31/20,2320
+Pando,9/1/20,2332
+Pando,9/2/20,2335
+Pando,9/3/20,2340
+Pando,9/4/20,2347
+Pando,9/5/20,2350
+Pando,9/6/20,2353
+Pando,9/7/20,2355
+Pando,9/8/20,2357
+Pando,9/9/20,2358
+Pando,9/10/20,2358
+Pando,9/11/20,2358
+Pando,9/12/20,2358
+Pando,9/13/20,2358
+Pando,9/14/20,2358
+Pando,9/15/20,2358
+Pando,9/16/20,2360
+Pando,9/17/20,2360
+Pando,9/18/20,2361
+Pando,9/19/20,2361
+Pando,9/20/20,2361
+Pando,9/21/20,2361
+Pando,9/22/20,2362
+Pando,9/23/20,2362
+Pando,9/24/20,2363
+Pando,9/25/20,2363
+Pando,9/26/20,2363
