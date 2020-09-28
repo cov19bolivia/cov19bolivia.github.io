@@ -148,7 +148,7 @@ p1 <-ggplot() +
              color = "black", size=0.7)+
   geom_point() +
   annotate("point", x = outofsample$Fecha, y = outofsample$ma7, colour = "red3",size=0.5,shape=21,fill = NA)+
-  annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+5)), y = outofsample$ma7[length(outofsample$Fecha)], label = format(outofsample$Fecha[1], format="%m/%d"), size = 1.5)+
+  annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+5)), y = outofsample$ma7[length(outofsample$Fecha)], label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%m/%d"), size = 1.5)+
   scale_x_date(date_breaks = "months" ,date_labels = "%b",limits = as.Date(c("2020-04-01","2020-10-10")))+
   labs(title = filename,
        subtitle = paste0("Casos confirmados por día", " (",vintage_str,")"),
