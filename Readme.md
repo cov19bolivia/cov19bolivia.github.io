@@ -29,7 +29,9 @@ install.packages("devtools")
 * El principal paquete de R es EpiNow __EpiNow__.
 
 ```
-install.packages(EpiNow)
+install.packages("drat")
+drat:::add("epiforecasts")
+install.packages("EpiNow")
 ```
 
 ## Datos
