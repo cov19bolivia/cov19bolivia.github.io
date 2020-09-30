@@ -42,6 +42,7 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 <img src="casesf/Potosicasefv2.png" width="100%">
 <img src="casesf/SantaCruzcasefv2.png" width="100%">
 <img src="casesf/Tarijacasefv2.png" width="100%">
+<img src="casesf/Pandocasefv2.png" width="100%">
 
 <!---
 ### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
