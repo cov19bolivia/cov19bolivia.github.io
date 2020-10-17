@@ -4,9 +4,9 @@ Esta página web provee actualizaciones de los resultados del documento de traba
 
 Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
 
-**Última Actualización: 26-09-2020**
+**Última Actualización: 11-Oct-2020**
 
-**Próxima Actualización: 10-10-2020**
+**Próxima Actualización: 30-Oct-2020**
 
 ## Metodología e Interpretación de los resultados
 
@@ -20,7 +20,7 @@ El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellew
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
 
-## Pronósticos de Casos Diarios (al 03-09-2020)
+## Pronósticos de Casos Diarios (al 11 de Octubre de 2020)
 
 * En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación.
 
@@ -28,7 +28,7 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
 
 * La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
 
-* La linea vertical corresponde al **26/09/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente.
+* La linea vertical corresponde al **11/10/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente.
 
 * El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización.
 
