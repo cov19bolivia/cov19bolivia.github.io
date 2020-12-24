@@ -1,14 +1,36 @@
 ## Monitoreo COVID-19 Bolivia
 
-Esta página web provee actualizaciones de los resultados del documento de trabajo: __Cardona, Cuba-Borda y Gonzales (2020)__, ["Monitoreo en Tiempo Real del COVID-19 en Bolivia"](doc/COV19Bolivia-Current.pdf) que utiliza tres herramientas de monitoreo en tiempo real de la  pandemia de COVID-19 con datos  públicos  disponibles  en  Bolivia.
+Esta página web provee actualizaciones semanales de proyecciones de casos de COVID-19 en los dp
 
-Los resultados se actualizan semanalmente los días sábados con la información disponible hasta el dia anterior.
+**Última Actualización: Dic-23-2020**
 
-**Última Actualización: 11-Oct-2020**
+**Próxima Actualización: Dic-30-2020**
 
-**Próxima Actualización: 30-Oct-2020**
+## Pronósticos de Casos Diarios
+
+* En los siguientes gráficos, las lineas punteadas representan la incertidumbre de estimación.
+
+* Las barras transparentes corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 días de los datos observados.
+
+* La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
+
+* La linea vertical corresponde a la fecha de estimación y los valores observados fuera de muestra son los círculos en color rojo los cuales se actualizan diariamente.
+
+* El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización.
+
+<!-- * Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 50 casos. -->
+
+<img src="casesf/Benicasefv4.png" width="100%">
+<img src="casesf/Chuquisacacasefv4.png" width="100%">
+<img src="casesf/Cochabambacasefv4.png" width="100%">
+<img src="casesf/LaPazcasefv4.png" width="100%">
+<img src="casesf/Orurocasefv4.png" width="100%">
+<img src="casesf/Potosicasefv4.png" width="100%">
+<img src="casesf/SantaCruzcasefv4.png" width="100%">
+<img src="casesf/Tarijacasefv4.png" width="100%">
 
 ## Metodología e Interpretación de los resultados
+La metodología proviene del documento de trabajo: __Cardona, Cuba-Borda y Gonzales (2020)__, ["Monitoreo en Tiempo Real del COVID-19 en Bolivia"](doc/COV19Bolivia-Current.pdf) que utiliza tres herramientas de monitoreo en tiempo real de la  pandemia de COVID-19 con datos  públicos  disponibles  en  Bolivia.
 
 El cálculo de casos diarios y casos acumulados se basan en la estimación y pronóstico del número de reproducción efectivo __Rt__. Los resultados corresponden a las infecciones estimadas por día de infección. Debido al período de incubación y retrasos en el procesamiento de resultados de laboratorio, nuestras estimaciones se adelantan a los casos por fecha de registro oficial.
 
@@ -19,29 +41,6 @@ Para poder hacer comparaciones con los datos observados, realizamos dos transfor
 El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellewell J, Thompson RN et al. Estimating the time-varying reproduction number of SARS-CoV-2 using national and subnational case counts. Wellcome Open Res 2020, 5:112 [https://doi.org/10.12688/wellcomeopenres.16006.1](https://doi.org/10.12688/wellcomeopenres.16006.1).
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
-
-## Pronósticos de Casos Diarios (al 11 de Octubre de 2020)
-
-* En los siguientes gráficos, la linea de color negro corresponde al valor estimado de infecciones en nuestro modelo y las lineas punteadas representan la incertidumbre de estimación.
-
-* Las barras transparentes corresponden al número de casos positivos según fecha oficial de confirmación y la linea de color rojo es el promedio movil de 7 dias de los datos observados.
-
-* La linea de color verde representa la mediana de la proyección de nuevos casos diarios. Las regiones con sombras claras representan el intervalo de credibilidad del 90%. Las regiones con sombras oscuras corresponden al intervalo de credibilidad del 50%.  
-
-* La linea vertical corresponde al **11/10/2020**, y los valores observados fuera de muestra son los circulos en color rojo los cuales se actualizan diariamente.
-
-* El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización.
-
-* Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 50 casos.
-
-<img src="casesf/Benicasefv2.png" width="100%">
-<img src="casesf/Chuquisacacasefv2.png" width="100%">
-<img src="casesf/Cochabambacasefv2.png" width="100%">
-<img src="casesf/LaPazcasefv2.png" width="100%">
-<img src="casesf/Orurocasefv2.png" width="100%">
-<img src="casesf/Potosicasefv2.png" width="100%">
-<img src="casesf/SantaCruzcasefv2.png" width="100%">
-<img src="casesf/Tarijacasefv2.png" width="100%">
 
 <!---
 ### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
