@@ -1,6 +1,6 @@
 ## Monitoreo COVID-19 Bolivia
 
-Esta página web provee actualizaciones semanales de proyecciones de casos de COVID-19 en los dp
+Esta página web provee actualizaciones semanales de proyecciones de casos de COVID-19 en los departamentos de Bolivia
 
 **Última Actualización: Dic-23-2020**
 
