@@ -19,14 +19,13 @@ Esta página web provee actualizaciones semanales de proyecciones de casos de CO
 * El eje vertical se ajusta a cada departamento y está truncado para facilitar la visualización.
 
 <!-- * Debido a la volatilidad de los datos, para Pando actualizamos los pronósticos solo cuando el número de casos acumulados durante la semana previa es superior a 50 casos. -->
-
+<img src="casesf/SantaCruzcasefv4.png" width="100%">
+<img src="casesf/LaPazcasefv4.png" width="100%">
+<img src="casesf/Cochabambacasefv4.png" width="100%">
 <img src="casesf/Benicasefv4.png" width="100%">
 <img src="casesf/Chuquisacacasefv4.png" width="100%">
-<img src="casesf/Cochabambacasefv4.png" width="100%">
-<img src="casesf/LaPazcasefv4.png" width="100%">
 <img src="casesf/Orurocasefv4.png" width="100%">
 <img src="casesf/Potosicasefv4.png" width="100%">
-<img src="casesf/SantaCruzcasefv4.png" width="100%">
 <img src="casesf/Tarijacasefv4.png" width="100%">
 
 ## Metodología e Interpretación de los resultados
