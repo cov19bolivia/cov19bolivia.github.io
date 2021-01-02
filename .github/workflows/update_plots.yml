@@ -34,3 +34,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Update plots
         run: Rscript update_website_plots.R
+      - name: commit
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git add -A
+          git commit -m "test update"
+          git push -q "https://$GH_TOKEN@github.com/cov19bolivia.github.io/" master
