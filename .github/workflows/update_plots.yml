@@ -29,10 +29,10 @@ jobs:
         uses: r-lib/actions/setup-R@v1
         with:
           r-version: '3.6.3'
-      - name: Install dependencies
-        run: |
-          install.packages("RCurl", "tidyverse", "zoo",
-          "ggplot2", "reshape", "ggthemes")
+#       - name: Install dependencies
+#         run: |
+#           install.packages("RCurl", "tidyverse", "zoo",
+#           "ggplot2", "reshape", "ggthemes")
       # Runs a set of commands using the runners shell
       - name: Update plots
         run: |
