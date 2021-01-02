@@ -31,8 +31,8 @@ jobs:
           r-version: '3.6.3'
       - name: Install dependencies
         run: |
-          install.packages(c("RCurl", "tidyverse", "zoo",
-          "ggplot2", "reshape", "ggthemes"))
+          install.packages("RCurl", "tidyverse", "zoo",
+          "ggplot2", "reshape", "ggthemes")
       # Runs a set of commands using the runners shell
       - name: Update plots
         run: |
