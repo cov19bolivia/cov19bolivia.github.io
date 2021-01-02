@@ -38,6 +38,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git add -A
+          git add .
           git commit -m "test update"
           git push -q "https://$GH_TOKEN@github.com/cov19bolivia/cov19bolivia.github.io/" master
