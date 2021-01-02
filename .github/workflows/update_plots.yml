@@ -40,4 +40,4 @@ jobs:
         run: |
           git add -A
           git commit -m "test update"
-          git push -q "https://$GH_TOKEN@github.com/cov19bolivia.github.io/" master
+          git push -q "https://$GH_TOKEN@github.com/cov19bolivia/cov19bolivia.github.io/" master
