@@ -43,7 +43,7 @@
     # =============================================================================================
 
     # Create subdirectories for vintage
-    # dir.create(file.path("casesf/", vintage))
+    dir.create(file.path("casesf/", vintage))
 
     #================================
     # Load Vintage Estimation Data
@@ -186,13 +186,13 @@
 
 
 
-    print(p1)
+    #print(p1)
 
     # SAVE FIGURE TO FOLDER
 
     # Save in website folder
     # webdir = "/Users/pcb/Documents/GitPages/cov19bolivia.github.io/"
-    ggsave(filename = paste0(gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
+    ggsave(filename = paste0("casesf/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
 
 
     }
