@@ -35,9 +35,12 @@ jobs:
       - name: Update plots
         run: Rscript update_website_plots.R
       - name: commit
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git add .
+          git add -a
           git commit -m "test update"
-          git push -q "https://$GH_TOKEN@github.com/cov19bolivia/cov19bolivia.github.io/" master
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_toke: ${{ secrets.GITHUB_TOKEN }}$
+          branch: ${{ github.ref }}
+#           git push -q "https://$GH_TOKEN@github.com/cov19bolivia/cov19bolivia.github.io/" master
