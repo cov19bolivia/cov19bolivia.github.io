@@ -43,7 +43,7 @@
     # =============================================================================================
 
     # Create subdirectories for vintage
-    dir.create(file.path("casesf/", vintage))
+    dir.create(file.path("casesf/"))
 
     #================================
     # Load Vintage Estimation Data
