@@ -2,7 +2,7 @@
 
 name: Update website plots based on latest estimation
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
@@ -36,8 +36,7 @@ jobs:
         run: Rscript update_website_plots.R
       - name: commit
         run: |
-          git add .
-          git commit -m "Add changes" 
+          git commit -m "Add changes" -a
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
