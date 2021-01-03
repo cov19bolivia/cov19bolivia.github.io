@@ -96,6 +96,21 @@
     most_recent$Pando=34
     daily_cases<-rbind(daily_cases,most_recent)
 
+    last_point <-tail(daily_cases, n=1)
+
+    most_recent<- last_point
+    most_recent$Fecha=as.Date(c("2021-1-2"),"%Y-%m-%d")
+    most_recent$`La Paz`=386
+    most_recent$Cochabamba=92
+    most_recent$`Santa Cruz`=426
+    most_recent$Oruro=11
+    most_recent$Potosi=1
+    most_recent$Tarija=63
+    most_recent$Chuquisaca=74
+    most_recent$Beni=0
+    most_recent$Pando=17
+    daily_cases<-rbind(daily_cases,most_recent)
+
 
     # Transform to long format
     data_long <- gather(daily_cases, region,cases, "Chuquisaca":Pando)
