@@ -180,7 +180,7 @@
       theme(plot.subtitle=element_text(size=8, color="black"))+
       theme(plot.caption=element_text(size=3.5, color="black",hjust = 0))+
       #coord_cartesian(ylim = c(0, 500))
-      coord_cartesian(ylim = c(0,min(800, max(100,max(max(cases_bo$ma7[cases_bo$date>"2020-11-01"]),max(df$top[df$date<"2021-01-05"]))))))
+      coord_cartesian(ylim = c(0,min(800, max(100,max(max(cases_bo$ma7[cases_bo$date>"2020-11-01"]),max(df$top[df$date<"2021-01-08"]))))))
     p1
 
 
