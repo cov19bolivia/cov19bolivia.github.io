@@ -84,19 +84,19 @@
     last_point <-tail(daily_cases, n=1)
 
     most_recent<- last_point
-    most_recent$Fecha=as.Date(c("2021-1-4"),"%Y-%m-%d")
-    most_recent$`La Paz`=110
-    most_recent$Cochabamba=168
-    most_recent$`Santa Cruz`=495
-    most_recent$Oruro=12
-    most_recent$Potosi=35
-    most_recent$Tarija=33
-    most_recent$Chuquisaca=98
-    most_recent$Beni=49
-    most_recent$Pando=10
+    most_recent$Fecha=as.Date(c("2021-1-5"),"%Y-%m-%d")
+    most_recent$`La Paz`=292
+    most_recent$Cochabamba=202
+    most_recent$`Santa Cruz`=871
+    most_recent$Oruro=24
+    most_recent$Potosi=33
+    most_recent$Tarija=35
+    most_recent$Chuquisaca=60
+    most_recent$Beni=63
+    most_recent$Pando=17
     daily_cases<-rbind(daily_cases,most_recent)
 
-  
+
 
     # Transform to long format
     data_long <- gather(daily_cases, region,cases, "Chuquisaca":Pando)
