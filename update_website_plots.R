@@ -164,7 +164,7 @@
       geom_point() +
       annotate("point", x = outofsample$Fecha, y = outofsample$ma7, colour = "red3",size=0.5,shape=21,fill = NA)+
       annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+2)), y = outofsample$ma7[length(outofsample$Fecha)], label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%m/%d"), size = 1.5)+
-      scale_x_date(date_breaks = "week" ,date_labels = "%b %d",limits = as.Date(c("2020-11-01",format(as.Date(vintage)+8,"%Y-%m-%d"))))+
+      scale_x_date(date_breaks = "week" ,date_labels = "%b %d",limits = as.Date(c("2020-11-01",format(as.Date(vintage)+10,"%Y-%m-%d"))))+
       labs(title = paste0(filename,': casos diarios de Covid-19'),
            subtitle = paste0("Pronósticos del ", format(as.Date(vintage)+1,"%d/%m"), ' al ', format(as.Date(vintage)+8,"%d/%m"), ' (promedios semanales)'),
            x = "",
