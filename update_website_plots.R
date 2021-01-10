@@ -84,19 +84,31 @@
     last_point <-tail(daily_cases, n=1)
 
     most_recent<- last_point
-    most_recent$Fecha=as.Date(c("2021-1-6"),"%Y-%m-%d")
-    most_recent$`La Paz`=287
-    most_recent$Cochabamba=232
-    most_recent$`Santa Cruz`=689
-    most_recent$Oruro=77
-    most_recent$Potosi=66
-    most_recent$Tarija=62
-    most_recent$Chuquisaca=139
-    most_recent$Beni=112
-    most_recent$Pando=49
+    most_recent$Fecha=as.Date(c("2021-1-8"),"%Y-%m-%d")
+    most_recent$`La Paz`=668
+    most_recent$Cochabamba=322
+    most_recent$`Santa Cruz`=783
+    most_recent$Oruro=58
+    most_recent$Potosi=19
+    most_recent$Tarija=43
+    most_recent$Chuquisaca=164
+    most_recent$Beni=134
+    most_recent$Pando=72
     daily_cases<-rbind(daily_cases,most_recent)
 
-
+    # most_recent<- last_point
+    # most_recent$Fecha=as.Date(c("2021-1-9"),"%Y-%m-%d")
+    # most_recent$`La Paz`=434
+    # most_recent$Cochabamba=152
+    # most_recent$`Santa Cruz`=609
+    # most_recent$Oruro=76
+    # most_recent$Potosi=44
+    # most_recent$Tarija=100
+    # most_recent$Chuquisaca=143
+    # most_recent$Beni=69
+    # most_recent$Pando=17
+    # daily_cases<-rbind(daily_cases,most_recent)
+    
 
     # Transform to long format
     data_long <- gather(daily_cases, region,cases, "Chuquisaca":Pando)
@@ -164,9 +176,9 @@
       geom_point() +
       annotate("point", x = outofsample$Fecha, y = outofsample$ma7, colour = "red3",size=0.5,shape=21,fill = NA)+
       annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+2)), y = outofsample$ma7[length(outofsample$Fecha)], label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%m/%d"), size = 1.5)+
-      scale_x_date(date_breaks = "week" ,date_labels = "%b %d",limits = as.Date(c("2020-11-01",format(as.Date(vintage)+10,"%Y-%m-%d"))))+
+      scale_x_date(date_breaks = "week" ,date_labels = "%b %d",limits = as.Date(c("2020-11-01",format(as.Date(vintage)+12,"%Y-%m-%d"))))+
       labs(title = paste0(filename,': casos diarios de Covid-19'),
-           subtitle = paste0("Pronósticos del ", format(as.Date(vintage)+1,"%d/%m"), ' al ', format(as.Date(vintage)+8,"%d/%m"), ' (promedios semanales)'),
+           subtitle = paste0("Pronósticos del ", format(as.Date(vintage)+1,"%d/%m"), ' al ', format(as.Date(vintage)+10,"%d/%m"), ' (promedios semanales)'),
            x = "",
            y= "",
            caption = "Linea y puntos rojos corresponden al promedio movil semanal de casos diarios. Barras transparentes son los datos observados y utilizados en la estimación del modelo.\nLas lineas punteadas corresponden al intervalo de credibilidad del 90%.\nEl area sombreada en verde oscuro es el intervalo de pronóstico con probabilidad de 50%.\nEl area sombreada en verde claro es el intervalo de pronóstico con probabilidad 90%." ) +
@@ -187,13 +199,13 @@
 
 
 
-    #print(p1)
+    print(p1)
 
     # SAVE FIGURE TO FOLDER
 
     # Save in website folder
     # webdir = "/Users/pcb/Documents/GitPages/cov19bolivia.github.io/"
-    ggsave(filename = paste0("casesf/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
+    # ggsave(filename = paste0("casesf/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
 
 
     }
