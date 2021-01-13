@@ -84,7 +84,7 @@
     last_point <-tail(daily_cases, n=1)
 
     most_recent<- last_point
-    most_recent$Fecha=as.Date(c("2021-1-8"),"%Y-%m-%d")
+    most_recent$Fecha=as.Date(c("2021-1-11"),"%Y-%m-%d")
     most_recent$`La Paz`=668
     most_recent$Cochabamba=322
     most_recent$`Santa Cruz`=783
@@ -94,7 +94,7 @@
     most_recent$Chuquisaca=164
     most_recent$Beni=134
     most_recent$Pando=72
-    daily_cases<-rbind(daily_cases,most_recent)
+    # daily_cases<-rbind(daily_cases,most_recent)
 
     # most_recent<- last_point
     # most_recent$Fecha=as.Date(c("2021-1-9"),"%Y-%m-%d")
@@ -205,7 +205,7 @@
 
     # Save in website folder
     # webdir = "/Users/pcb/Documents/GitPages/cov19bolivia.github.io/"
-    # ggsave(filename = paste0("casesf/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
+    ggsave(filename = paste0("casesf/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 11, height =6.5, dpi = 300, units = "cm")
 
 
     }
