@@ -2,9 +2,9 @@
 
 Esta página web provee actualizaciones semanales de proyecciones de casos de COVID-19 en los departamentos de Bolivia
 
-**Última Actualización: Enero-09-2021**
+**Última Actualización: Enero-17-2021**
 
-**Próxima Actualización: Enero-16-2021**
+**Próxima Actualización: Enero-25-2021**
 
 ## Pronósticos de Casos Diarios
 
