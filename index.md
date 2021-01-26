@@ -41,6 +41,8 @@ El modelo de pronóstico esta basado en el programa __EpiNow__: Abbott S, Hellew
 
 Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Current.pdf)
 
+
+<!---
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
     width="900"
@@ -48,7 +50,6 @@ Para mayores detalles ver nuestro [documento de trabajo](doc/COV19Bolivia-Curren
     src="https://cov19bolivia.github.io/tarija.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
 </iframe>
 
-<!---
 ### Pronóstico de Casos, Totales Acumulados hasta 01-09-2020
 
 Los resultados corresponden al total de casos según la fecha de infección y proveen información adelantada con respecto a los casos por fecha de diagnóstico.
