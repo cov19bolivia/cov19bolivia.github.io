@@ -9,11 +9,9 @@ case counts [version 1; peer review: awaiting peer review].” Wellcome Open Res
 ### Como replicar los resultados
 Los codigos para replicar las estimaciones se encuentran en el folder replication_codes
 
-1) Obtener los datos ejecutando el codigo "pull_data_covid19BO.R", este codigo crea un archivo de csv en el folder rawdata en base a la información diaria disponible (ver seccion Datos para detalles)
+1) "update_data_and_nowcasts_BO.R", actualiza datos, estimacion y figuras.
 
-2) Ejecutar el codigo "update_nowcasts_long_forecast_BO.R", este codigo crea un folder de nombre "national" con subfolders para cada departamento y vintage de estimacion.
-
-3) Ejecutar el codigo "plot_case_forecast_BO.R" para generar los graficos. Este codigo guardara los graficos en un subfolder llamado "casesf/[vintage]".
+2) "plot_case_forecast_BO.R" actualiza los graficos de pronostico con datos observados para comparar los pronosticos. Resultados se guardan el subfolder "casesf/[vintage]".
 
 ### Software
 
@@ -37,11 +35,11 @@ install.packages("EpiNow")
 ## Datos
 
 * Los datos de casos diarios de Bolivia se obtienen del repositorio de COVID-19 de Mau Foronda
-https://github.com/mauforonda/covid19-bolivia
+https://raw.githubusercontent.com/mauforonda/covid19-bolivia-udape/master/confirmados_diarios.csv
 
 ## Autor
 
-* **Pablo Cuba Borda** - *September 26, 2020*
+* **Pablo Cuba Borda** - *Mayo 7, 2021*
 
 ## Nota
 * Las opiniones acá presentadas son totalmente personales y no implican ni representan ninguna de las instituciones con las que estoy o estuve afiliado.
