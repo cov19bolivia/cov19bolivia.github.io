@@ -48,7 +48,7 @@
   #================================
   # Load Vintage Estimation Data
   #================================
-  cases_bo_raw <- read.csv(file=paste0("raw_data/", ctry, "-", vintage, ".csv"))
+  cases_bo_raw <- read.csv(file=paste0("rawdata/", ctry, "-", vintage, ".csv"))
   cases_bo_raw$date <-as.Date(cases_bo_raw[["date"]], "%Y-%m-%d")
 
   # Compute daily cases
@@ -145,8 +145,8 @@
     geom_line(data=outofsample, aes(x=Fecha, y=ma7), color = "red3",linetype="solid", lwd = 0.4) +    
     geom_point() +
     annotate("point", x = outofsample$Fecha, y = outofsample$ma7, colour = "red3",size=0.55,shape=21,fill = NA)+
-    annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+5)), y = outofsample$ma7[length(outofsample$Fecha)]-5, label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%m/%b"), size = 1.35)+
-    annotate("text", x = as.Date(peakdate[peakdate_loc])+3, y = peakvalue*1.05, label = "promedio móvil 7-días",size = 2.5,  color="red3")+
+    annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+5)), y = outofsample$ma7[length(outofsample$Fecha)]-5, label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%b/%d"), size = 1.35)+
+    annotate("text", x = as.Date(peakdate[peakdate_loc])+3, y = peakvalue*1.01, label = "promedio móvil 7-días",size = 2.5,  color="red3")+
     annotate("text", x = as.Date(peakdate[peakdate_loc])+3, y = peakwave*0.2, label = "Casos diarios",size = 2.5,  color="blue3")+
     scale_x_date(date_breaks = "3 weeks" ,date_labels = "%b %d",limits = as.Date(c("2020-12-01",format(as.Date(vintage)+21,"%Y-%m-%d"))))+
     labs(title = paste0(filename,': casos diarios de Covid-19'),
