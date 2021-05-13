@@ -38,7 +38,6 @@
 
   # List of department to plot
   clist <- c("Santa Cruz","La Paz", "Cochabamba", "Oruro", "Potosi", "Chuquisaca", "Tarija", "Beni", "Pando")
-  # clist <-c("Cochabamba")
   # =============================================================================================
   # HOUSE KEEPING
   # =============================================================================================
@@ -132,7 +131,7 @@
   
   # Start plot
   p1 <-ggplot() +
-    geom_bar(data=cases_bo, aes(x=date, y=cases), stat="identity", fill="steelblue3",alpha=0.45)+
+    geom_bar(data=cases_bo, aes(x=date, y=cases), stat="identity", fill="steelblue3",alpha=0.30)+
     geom_ribbon(aes(x=df$date, ymax = df$top/pop, ymin = df$bottom/pop), alpha = 0.3,
                 fill = "darkseagreen3", color = "transparent")+
     geom_ribbon(aes(x=df$date, ymax = df$upper/pop, ymin = df$lower/pop), alpha = 0.7,
@@ -141,7 +140,8 @@
     geom_line(data=df, aes(x=date, y=top, linetype='dashed'), color = "aquamarine4", lwd = 0.5,linetype="dashed",alpha=0.7) +
     geom_line(data=df, aes(x=date, y=bottom, linetype='dashed'), color = "aquamarine4", lwd = 0.5,linetype="dashed",alpha=0.7) +
     geom_line(data=cases_bo, aes(x=date, y=ma7), color = "red3",linetype="solid", lwd = 1) +
-     geom_vline(xintercept = as.Date(vintage)+1, linetype="solid",lwd=0.35,
+    geom_bar(data=outofsample, aes(x=Fecha, y=cases), stat="identity", fill="steelblue3",alpha=0.30) +    
+    geom_vline(xintercept = as.Date(vintage)+1, linetype="solid",lwd=0.35,
                 color = "gray", size=0.7)+
     geom_line(data=outofsample, aes(x=Fecha, y=ma7), color = "red3",linetype="solid", lwd = 0.4) +    
     geom_point() +
