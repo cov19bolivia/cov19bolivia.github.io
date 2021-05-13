@@ -38,6 +38,7 @@
 
   # List of department to plot
   clist <- c("Santa Cruz","La Paz", "Cochabamba", "Oruro", "Potosi", "Chuquisaca", "Tarija", "Beni", "Pando")
+  # clist <-c("Cochabamba")
   # =============================================================================================
   # HOUSE KEEPING
   # =============================================================================================
@@ -124,9 +125,9 @@
   peakwave <-max(cases_bo$ma7[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-05-31"])
   
   # Get peak value of MA7
-  peakvalue <- max(cases_bo$ma7[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-03-1"])
-  peakdate_loc <- which.max(cases_bo$ma7[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-03-1"])
-  peakdate <- cases_bo$date[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-03-1"]
+  peakvalue <- max(cases_bo$ma7[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-05-10"])
+  peakdate_loc <- which.max(cases_bo$ma7[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-05-10"])
+  peakdate <- cases_bo$date[cases_bo$date>"2020-12-01" & cases_bo$date<"2021-05-10"]
   
   
   # Start plot
@@ -140,14 +141,15 @@
     geom_line(data=df, aes(x=date, y=top, linetype='dashed'), color = "aquamarine4", lwd = 0.5,linetype="dashed",alpha=0.7) +
     geom_line(data=df, aes(x=date, y=bottom, linetype='dashed'), color = "aquamarine4", lwd = 0.5,linetype="dashed",alpha=0.7) +
     geom_line(data=cases_bo, aes(x=date, y=ma7), color = "red3",linetype="solid", lwd = 1) +
-    geom_vline(xintercept = as.Date(vintage), linetype="solid",lwd=0.5,
-               color = "black", size=0.7)+
+     geom_vline(xintercept = as.Date(vintage)+1, linetype="solid",lwd=0.35,
+                color = "gray", size=0.7)+
     geom_line(data=outofsample, aes(x=Fecha, y=ma7), color = "red3",linetype="solid", lwd = 0.4) +    
     geom_point() +
     annotate("point", x = outofsample$Fecha, y = outofsample$ma7, colour = "red3",size=0.55,shape=21,fill = NA)+
     annotate("text", x = as.Date(c(outofsample$Fecha[length(outofsample$Fecha)]+5)), y = outofsample$ma7[length(outofsample$Fecha)]-5, label = format(outofsample$Fecha[length(outofsample$Fecha)], format="%b/%d"), size = 1.35)+
-    annotate("text", x = as.Date(peakdate[peakdate_loc])+3, y = peakvalue*1.01, label = "promedio móvil 7-días",size = 2.5,  color="red3")+
-    annotate("text", x = as.Date(peakdate[peakdate_loc])+3, y = peakwave*0.2, label = "Casos diarios",size = 2.5,  color="blue3")+
+    annotate("text", x = as.Date(peakdate[peakdate_loc])-2, y = peakvalue*1.01, label = "promedio móvil 7-días",size = 2.0,  color="red3",hjust = 1)+
+    annotate("text", x = as.Date(peakdate[peakdate_loc])-2, y = peakwave*0.2, label = "Casos diarios",size = 2.0,  color="blue3",hjust = 1)+
+    annotate("text", x = as.Date(vintage)+5, y = max(df$top[df$date<as.Date(vintage)+21]), label = "Pronósticos",size = 2.5,  color="black",hjust = 0)+
     scale_x_date(date_breaks = "3 weeks" ,date_labels = "%b %d",limits = as.Date(c("2020-12-01",format(as.Date(vintage)+21,"%Y-%m-%d"))))+
     labs(title = paste0(filename,': casos diarios de Covid-19'),
          subtitle = paste0("Pronósticos del ", format(as.Date(vintage)+1,"%d/%b"), ' al ', format(as.Date(vintage)+21,"%d/%b")),
@@ -164,13 +166,14 @@
     theme(plot.subtitle=element_text(size=8, color="black"))+
     theme(plot.caption=element_text(size=6, color="black",hjust = 0))+
     coord_cartesian(ylim = c(0,min(1500, max(200,max(max(df$top[df$date<as.Date(vintage)+21]),peakwave)))))
+    
   p1
 
 
   print(p1)
 
   # Save for website
-  ggsave(filename = paste0("casesf/", vintage, "/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 12, height =8, dpi = 300, units = "cm")
+  ggsave(filename = paste0("casesf/", vintage, "/", gsub("\\s+","",filename), "casefv4.png"), plot = p1, width = 14, height =8, dpi = 300, units = "cm")
 
   }
 
