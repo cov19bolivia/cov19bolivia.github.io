@@ -21,6 +21,7 @@ Esta página web provee actualizaciones semanales de proyecciones de casos de CO
 <img src="casesf/LaPazcasefv4.png" width="100%">
 <img src="casesf/Cochabambacasefv4.png" width="100%">
 <img src="casesf/Benicasefv4.png" width="100%">
+<img src="casesf/Pandocasefv4.png" width="100%">
 <img src="casesf/Chuquisacacasefv4.png" width="100%">
 <img src="casesf/Orurocasefv4.png" width="100%">
 <img src="casesf/Potosicasefv4.png" width="100%">
